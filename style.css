@@ -107,11 +107,6 @@ header, #content, footer {
   color:black; 
 }
 
-.credits{
-  writing-mode: vertical-rl;
-  text-orientation: mixed;
- }
-
 /* Menu Links */
 ul.main-menu {
   margin: 0;
@@ -143,5 +138,9 @@ ul.main-menu li a.active {
   display:block;
 }
 
-
-
+.contact_center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
