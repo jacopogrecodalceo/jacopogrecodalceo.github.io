@@ -1,0 +1,10 @@
+<header class='header'>
+  <a class='header__title' href='{{ '/' | relative_url }}'>{{ site.title | escape }}</a>
+  <nav class='header__nav'>
+
+    {% for item in site.data.navigation %}
+      <a class='header__nav__item {% if page.url == item.link %} is-active {% endif %}' href='{{ item.link | relative_url }}'>{{ item.name }}</a>
+    {% endfor %}
+    
+  </nav>
+</header>

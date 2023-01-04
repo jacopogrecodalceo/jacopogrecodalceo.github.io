@@ -1,16 +1,26 @@
 author: Jacopo Greco d'Alceo
+title: Jacopo Greco d'Alceo's website
+email: jacopo.grecodalceo [at] gmail.com
+description: Jacopo Greco d'Alceo's website
+
+github_username: jacopogrecodalceo
+facebook_username: jacopogrecodalceo
+instagram_username: jacopo_grecodalceo
+vimeo_username: jacopogrecodalceo
+soundcloud_username: jacopogrecodalceo
+bandcamp_username: jacopogrecodalceo
+
+# date_format:
+
+# google_analytics:
+# disqus_shortname:
+
+markdown: kramdown
 
 collections:
   projects:
     output: true
 
-defaults:
-  - scope:
-      path: ""
-      type: "project"
-    values:
-      layout: "project"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

@@ -1,0 +1,50 @@
+<footer class='footer'>
+  {% assign site_footer_pages = site.pages | where: 'is_footer', true %}
+
+  {% if site_footer_pages.size > 0 %}
+    <ul class='footer__list'>
+      {% for site_footer_page in site_footer_pages %}
+        <li class='footer__item'>
+          <a href='{{ site_footer_page.url | relative_url }}'>{{ site_footer_page.title | escape }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  <ul class='footer__list footer__list--social'>
+    {% if site.author %}
+      {% if site.email %}
+        <li class='footer__item'>
+          <a href='mailto:{{ site.email }}'>{{ site.author }}</a>
+        </li>
+      {% else %}
+        <li class='footer__item'>{{ site.author }}</li>
+      {% endif %}
+    {% endif %}
+
+    {% if site.facebook_username %}
+      <li class='footer__item'>
+        <a href='https://www.facebook.com/{{ site.facebook_username }}' title='facebook'>
+          {% include icon.html icon='facebook' %}
+        </a>
+      </li>
+    {% endif %}
+
+    {% if site.instagram_username %}
+      <li class='footer__item'>
+        <a href='https://instagram.com/{{ site.instagram_username }}' title='instagram'>
+          {% include icon.html icon='instagram' %}
+        </a>
+      </li>
+    {% endif %}
+
+    {% if site.github_username %}
+    <li class='footer__item'>
+      <a href='https://github.com/{{ site.github_username }}' title='github'>
+        {% include icon.html icon='github' %}
+      </a>
+    </li>
+  {% endif %}
+  
+  </ul>
+</footer>
