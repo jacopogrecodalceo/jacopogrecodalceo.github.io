@@ -3,6 +3,8 @@ title: Jacopo Greco d'Alceo's website
 email: jacopo.grecodalceo [at] gmail.com
 description: Jacopo Greco d'Alceo's website
 
+base_path: /jacopogrecodalceo
+
 github_username: jacopogrecodalceo
 facebook_username: jacopogrecodalceo
 instagram_username: jacopo_grecodalceo
@@ -20,6 +22,12 @@ markdown: kramdown
 collections:
   projects:
     output: true
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
 
 plugins:
  - jekyll-feed

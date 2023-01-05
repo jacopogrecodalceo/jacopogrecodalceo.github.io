@@ -11,7 +11,7 @@ $purple-darker: darken($purple, 20);
 $red: #cb1b45;
 $red-dark: darken($red, 10);
 
-$black: #1c1c1c;
+$black: #2a2a2a;
 $black-light: lighten($black, 10);
 $black-lighter: lighten($black, 20);
 $black-lightest: lighten($black, 30);
@@ -25,7 +25,7 @@ $white: #fff;
 // specific colors for page
 
 $body-bg-color: $white;
-$header-color: var(--light-theme-accent-color);
+$header-color: $black;
 $footer-color: $grey;
 $icon-color: $grey;
 
