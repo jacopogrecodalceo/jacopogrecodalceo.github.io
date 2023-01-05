@@ -3,10 +3,11 @@ layout: default
 title: news
 ---
 <ul>
-  {% for project in site.projects limit:1 %}
-    <li>
-      <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
-      {{ project.excerpt }}
-    </li>
+  {% for project in site.projects reversed %}
+    {% for static_file in site.static_files %}
+      {% if static_file.basename == project.title %}
+        <img src='{{ base_path }}/assets/images/{{ project.title }}.png' width=50%>
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 </ul>

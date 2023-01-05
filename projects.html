@@ -3,15 +3,19 @@ layout: default
 title: projects
 ---
 <ul>
-  {% for project in site.projects %}
+  {% for project in site.projects reversed %}
     <li>
-      <a href="{{ base_path }}/{{ project.url }}">{{ project.title }}</a>
+      <a href="{{ project.url }}">{{ project.title }}</a>
       <br>
       {{ project.instruments }}
       <br>
       {{ project.year }}
       <br>
-      <img src='{{ base_path }}/assets/images/{{ project.title }}.png' width=25%>
+      {% for static_file in site.static_files %}
+        {% if static_file.basename == project.title %}
+          <img src='{{ base_path }}/assets/images/{{ project.title }}.png' width=25%>
+        {% endif %}
+      {% endfor %}
     </li>
   {% endfor %}
 </ul>
