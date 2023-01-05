@@ -1,5 +1,7 @@
+- name: news
+  link: /news.html
 - name: projects
-  link: /
+  link: /projects
 - name: about
   link: /about.html
 - name: contact

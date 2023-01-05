@@ -1,0 +1,17 @@
+---
+layout: default
+title: projects
+---
+<ul>
+  {% for project in site.projects %}
+    <li>
+      <a href="{{ base_path }}/{{ project.url }}">{{ project.title }}</a>
+      <br>
+      {{ project.instruments }}
+      <br>
+      {{ project.year }}
+      <br>
+      <img src='{{ base_path }}/assets/images/{{ project.title }}.png' width=25%>
+    </li>
+  {% endfor %}
+</ul>

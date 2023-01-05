@@ -1,0 +1,12 @@
+---
+layout: default
+title: news
+---
+<ul>
+  {% for project in site.projects limit:1 %}
+    <li>
+      <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+      {{ project.excerpt }}
+    </li>
+  {% endfor %}
+</ul>

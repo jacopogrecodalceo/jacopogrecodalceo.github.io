@@ -38,6 +38,14 @@
       </li>
     {% endif %}
 
+    {% if site.vimeo_username %}
+    <li class='footer__item'>
+      <a href='https://vimeo.com/{{ site.vimeo_username }}' title='vimeo'>
+        {% include icon.html icon='instagram' %}
+      </a>
+    </li>
+  {% endif %}
+
     {% if site.github_username %}
     <li class='footer__item'>
       <a href='https://github.com/{{ site.github_username }}' title='github'>
