@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 
 title: midriasi
 instruments: for live video, fixed electronic and 4 musician

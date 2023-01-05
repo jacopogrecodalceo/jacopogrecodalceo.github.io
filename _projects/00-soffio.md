@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 
 title: soffio
 instruments: for live video, fixed electronic and double bass

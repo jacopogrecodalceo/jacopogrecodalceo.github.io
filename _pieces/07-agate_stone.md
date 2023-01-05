@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: piece
 
 title: agate stone
 instruments: for fixed electronic and 8 musicians with ancient instruments

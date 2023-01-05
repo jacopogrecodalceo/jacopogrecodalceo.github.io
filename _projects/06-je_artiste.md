@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 
 title: je, artiste
 instruments: for musicians, dancers and electronic

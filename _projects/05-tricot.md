@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 
 title: TRICOꓕ
 instruments: for camera, fixed electronic and 5 wonderful dancers

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 
 title: Métamorphose
 instruments: for video, fixed electronic and diskclavier

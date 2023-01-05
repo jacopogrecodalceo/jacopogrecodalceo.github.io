@@ -13,13 +13,7 @@
 
   <ul class='footer__list footer__list--social'>
     {% if site.author %}
-      {% if site.email %}
-        <li class='footer__item'>
-          <a href='mailto:{{ site.email }}'>{{ site.author }}</a>
-        </li>
-      {% else %}
-        <li class='footer__item'>{{ site.author }}</li>
-      {% endif %}
+      <li class='footer__item'>{{ site.author | downcase }}</li>
     {% endif %}
 
     {% if site.facebook_username %}
@@ -41,7 +35,7 @@
     {% if site.vimeo_username %}
     <li class='footer__item'>
       <a href='https://vimeo.com/{{ site.vimeo_username }}' title='vimeo'>
-        {% include icon.html icon='instagram' %}
+        {% include icon.html icon='vimeo' %}
       </a>
     </li>
   {% endif %}
