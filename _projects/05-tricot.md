@@ -2,7 +2,7 @@
 layout: default
 
 title: TRICOꓕ
-instruments: for musicians
+instruments: for camera, fixed electronic and 5 wonderful dancers
 tags: dance, video
 year: 2022
 ---

@@ -1,6 +1,10 @@
 ---
+layout: default
+
 title: midriasi
-instruments: for musicians
+instruments: for live video, fixed electronic and 4 musician
+tags: video, electronic, clarinet, cello, double bass, marimba, percussions
 year: 2018
 ---
-Jill is an avid fruit grower based in the south of France.
+
+..

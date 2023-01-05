@@ -1,7 +1,7 @@
-- name: news
-  link: /news.html
 - name: projects
   link: /projects
+- name: pieces
+  link: /pieces
 - name: Cordelia
   link: /cordelia.html
 - name: about

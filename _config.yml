@@ -22,6 +22,8 @@ markdown: kramdown
 collections:
   projects:
     output: true
+  pieces:
+    output: true
 
 defaults:
   - scope:

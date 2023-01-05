@@ -1,6 +1,10 @@
 ---
+layout: default
+
 title: je, artiste
-instruments: for musicians
+instruments: for musicians, dancers and electronic
+tags: dance, electronic, public space
 year: 2022/2023
 ---
-Jill is an avid fruit grower based in the south of France.
+
+..

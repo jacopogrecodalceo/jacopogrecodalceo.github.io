@@ -7,15 +7,10 @@ title: projects
     <li>
       <a href="{{ project.url }}">{{ project.title }}</a>
       <br>
-      {{ project.instruments }}
+      <i>{{ project.instruments }}</i>
       <br>
       {{ project.year }}
-      <br>
-      {% for static_file in site.static_files %}
-        {% if static_file.basename == project.title %}
-          <img src='{{ base_path }}/assets/images/{{ project.title }}.png' width=25%>
-        {% endif %}
-      {% endfor %}
+      <br><br>
     </li>
   {% endfor %}
 </ul>

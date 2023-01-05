@@ -2,10 +2,12 @@
 layout: default
 
 title: trio³
-instruments: for one dancers
+instruments: for two percussionists and a dancer
+tags: dance, percussions
 year: 2022/2023
 ---
-Jill is an avid fruit grower based in the south of France.
+
+..
 <br>
 <br>
 [<< back]({{ site.url }}/projects)

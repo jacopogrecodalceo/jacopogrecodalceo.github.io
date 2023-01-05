@@ -1,6 +1,10 @@
 ---
+layout: default
+
 title: Métamorphose
-instruments: for musicians
+instruments: for video, fixed electronic and diskclavier
+tags: video, electronic, diskclavier
 year: 2018
 ---
-Jill is an avid fruit grower based in the south of France.
+
+..

@@ -2,4 +2,10 @@
 layout: default
 title: home
 ---
-this is the home
+{% for project in site.projects reversed %}
+{% for static_file in site.static_files %}
+  {% if static_file.basename == project.title %}
+    <a href="{{ project.url }}"><img src='{{ base_path }}/assets/images/{{ project.title }}.png' width=50%></a>
+  {% endif %}
+{% endfor %}
+{% endfor %}
