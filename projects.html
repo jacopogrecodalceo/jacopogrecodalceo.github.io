@@ -2,15 +2,18 @@
 layout: default
 title: projects
 ---
-<ul>
-  {% for project in site.projects reversed %}
-    <li>
-      <a href="{{ project.url }}">{{ project.title }}</a>
-      <br>
-      <i>{{ project.instruments }}</i>
-      <br>
-      {{ project.year }}
-      <br><br>
-    </li>
-  {% endfor %}
-</ul>
+{% for project in site.projects reversed %}
+    {% cycle 'add row' : '<div class="row">', '', '' %}
+        <div class="column column-33">
+            <div class="preview-panel">
+                <a href="{{ project.url | prepend: base_path }}">
+                  {% assign names = project.permalink | split: "/" %}
+                  <img src="{{ base_path }}/assets/images/{{ names[1] }}-preview.png">
+                <div class="overlay">
+                  <div class="text">{{ project.title }}</div>
+                </div>
+              </a>
+            </div>
+        </div>
+    {% cycle 'end row' : '', '', '</div>' %}
+{% endfor %}

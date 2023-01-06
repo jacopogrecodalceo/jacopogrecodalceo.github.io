@@ -2,6 +2,8 @@
 layout: project
 
 title: TRICOꓕ
+permalink: projects/tricot
+
 instruments: for camera, fixed electronic and 5 wonderful dancers
 tags: dance, video
 year: 2022

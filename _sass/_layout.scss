@@ -9,6 +9,11 @@ html {
   box-sizing: inherit;
 }
 
+
+
+
+
+
 body {
   background-color: $body-bg-color;
   font-family: $monospaced-fonts;
@@ -142,6 +147,24 @@ body {
   fill: $icon-color;
 }
 
-#disqus_thread {
-  margin-top: 60px;
+.preview-panel {
+  padding: 1rem;
+  box-sizing: border-box;
+  border: 1px solid $white;
+  
+  &:hover {
+      border: 1px solid $white;
+  }
 }
+
+/**
+ * Site header
+ */
+ .wrapper .container {
+  max-width: 80rem;
+}
+
+img {
+	max-width: 100%;
+}
+

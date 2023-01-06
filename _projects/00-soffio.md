@@ -2,6 +2,8 @@
 layout: project
 
 title: soffio
+permalink: projects/soffio
+
 instruments: for live video, fixed electronic and double bass
 tags: video, electronic, double bass
 year: 2018
