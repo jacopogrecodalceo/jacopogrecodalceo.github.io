@@ -7,6 +7,8 @@ permalink: projects/chiedimi_le_mie_radici
 instruments: for a dancer in a quadraphony
 tags: dance, quadraphony, electronic
 year: 2022/2023
+
+homepage: true
 ---
 
 avec _Mélisande Tonolo_

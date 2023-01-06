@@ -3,17 +3,17 @@ layout: default
 title: projects
 ---
 {% for project in site.projects reversed %}
-    {% cycle 'add row' : '<div class="row">', '', '' %}
-        <div class="column column-33">
-            <div class="preview-panel">
-                <a href="{{ project.url | prepend: base_path }}">
-                  {% assign names = project.permalink | split: "/" %}
-                  <img src="{{ base_path }}/assets/images/{{ names[1] }}-preview.png">
-                <div class="overlay">
-                  <div class="text">{{ project.title }}</div>
-                </div>
-              </a>
-            </div>
-        </div>
-    {% cycle 'end row' : '', '', '</div>' %}
+  {% cycle 'add row' : '<div class="row">', '', '' %}
+      <div class="column column-33">
+          <div class="preview-panel">
+              <a href="{{ project.url | prepend: base_path }}">
+                {% assign names = project.permalink | split: "/" %}
+                <img src="{{ base_path }}/assets/images/{{ names[1] }}-preview.png">
+              <div class="overlay">
+                <div class="text">{{ project.title }}</div>
+              </div>
+            </a>
+          </div>
+      </div>
+  {% cycle 'end row' : '', '', '</div>' %}
 {% endfor %}

@@ -148,12 +148,12 @@ body {
 }
 
 .preview-panel {
-  padding: 1rem;
+  padding: .05rem;
   box-sizing: border-box;
-  border: 1px solid $white;
+  border: .25px solid $white;
   
   &:hover {
-      border: 1px solid $white;
+      border: 15px solid $white;
   }
 }
 
@@ -167,4 +167,3 @@ body {
 img {
 	max-width: 100%;
 }
-
