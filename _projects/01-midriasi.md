@@ -4,7 +4,7 @@ layout: project
 title: midriasi
 permalink: projects/midriasi
 
-instruments: for live video, fixed electronic and 4 musician
+instrumentation: for live video, fixed electronic and 4 musician
 tags: video, electronic, clarinet, cello, double bass, marimba, percussions
 year: 2018
 ---

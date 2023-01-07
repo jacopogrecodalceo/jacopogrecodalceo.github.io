@@ -2,7 +2,7 @@
 layout: piece
 
 title: ghosts memory holds
-instruments: for double flute and electronic
+instrumentation: for double flute and electronic
 tags: double flute, electronic
 year: 2023
 ---

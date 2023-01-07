@@ -15,38 +15,22 @@
     {% if site.author %}
       <li class='footer__item'>{{ site.author | downcase }}</li>
     {% endif %}
+  </ul>
 
-    {% if site.facebook_username %}
-      <li class='footer__item'>
-        <a href='https://www.facebook.com/{{ site.facebook_username }}' title='facebook'>
-          {% include icon.html icon='facebook' %}
-        </a>
-      </li>
-    {% endif %}
+  <ul class='footer__list footer__list--social'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-    {% if site.instagram_username %}
-      <li class='footer__item'>
-        <a href='https://instagram.com/{{ site.instagram_username }}' title='instagram'>
-          {% include icon.html icon='instagram' %}
-        </a>
-      </li>
-    {% endif %}
-
-    {% if site.vimeo_username %}
     <li class='footer__item'>
-      <a href='https://vimeo.com/{{ site.vimeo_username }}' title='vimeo'>
-        {% include icon.html icon='vimeo' %}
-      </a>
+      <a href='https://www.facebook.com/{{ site.facebook_username }}' class="fa fa-facebook"></a>
     </li>
-  {% endif %}
-
-    {% if site.github_username %}
     <li class='footer__item'>
-      <a href='https://github.com/{{ site.github_username }}' title='github'>
-        {% include icon.html icon='github' %}
-      </a>
+      <a href='https://www.instagram.com/{{ site.instagram_username }}' class="fa fa-instagram"></a>
     </li>
-  {% endif %}
-  
+    <li class='footer__item'>
+      <a href='https://www.vimeo.com/{{ site.vimeo_username }}' class="fa fa-vimeo"></a>
+    </li>
+    <li class='footer__item'>
+      <a href='https://www.github.com/{{ site.github_username }}' class="fa fa-github"></a>
+    </li>
   </ul>
 </footer>

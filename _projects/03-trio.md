@@ -4,7 +4,7 @@ layout: project
 title: trio³
 permalink: projects/trio
 
-instruments: for two percussionists and a dancer
+instrumentation: for two percussionists and a dancer
 tags: dance, percussions
 year: 2022/2023
 ---

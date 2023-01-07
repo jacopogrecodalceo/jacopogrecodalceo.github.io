@@ -5,13 +5,15 @@ title: projects
 {% for project in site.projects reversed %}
   {% cycle 'add row' : '<div class="row">', '', '' %}
       <div class="column column-33">
-          <div class="preview-panel">
+          <div class="projects-preview">
               <a href="{{ project.url | prepend: base_path }}">
-                {% assign names = project.permalink | split: "/" %}
-                <img src="{{ base_path }}/assets/images/{{ names[1] }}-preview.png">
-              <div class="overlay">
-                <div class="text">{{ project.title }}</div>
-              </div>
+                <div class="preview-images">
+                  {% assign names = project.permalink | split: "/" %}
+                  <img src="{{ base_path }}/assets/images/{{ names[1] }}-preview.png">
+                  <div class="overlay">
+                    <div class="text">{{ project.title }}</div>
+                  </div>
+                </div>
             </a>
           </div>
       </div>
