@@ -11,7 +11,7 @@ title: projects
                   {% assign names = project.permalink | split: "/" %}
                   <img src="{{ base_path }}/assets/images/{{ names[1] }}-preview.png">
                   <div class="overlay">
-                    <div class="text">{{ project.title }}<br><br><small><i>{{ project.instrumentation }}</i></small></div>
+                    <div class="text">{{ project.title }}<br><br><small><i>{{ project.instrumentation }}</i><br><small>{{ project.year }}</small></small></div>
                   </div>
                 </div>
               </a>

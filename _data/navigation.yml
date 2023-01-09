@@ -1,7 +1,7 @@
 - name: projects
-  link: /projects
+  link: /projects.html
 - name: pieces
-  link: /pieces
+  link: /pieces.html
 - name: Cordelia
   link: /cordelia.html
 - name: about
