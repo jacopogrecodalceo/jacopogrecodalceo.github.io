@@ -2,9 +2,11 @@
 layout: default
 title: home
 ---
-{% for project in site.projects reversed %}
-  {% if project.homepage %}
-    {% assign names = project.permalink | split: "/" %}
-    <a href="{{ project.url }}"><center><img alt="{{ names[1] }}" src="{{ base_path }}/assets/images/{{ names[1] }}.png" width="auto"></center></a>
-  {% endif %}
-{% endfor %}
+<div>
+  {% for project in site.projects reversed %}
+    {% if project.homepage %}
+      {% assign names = project.permalink | split: "/" %}
+      <a href="{{ project.url }}"><img class="index-img" alt="{{ project.title }}" src="{{ base_path }}/assets/images/{{ names[1] }}.png"></a>
+    {% endif %}
+  {% endfor %}
+</div>

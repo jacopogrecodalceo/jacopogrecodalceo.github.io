@@ -11,10 +11,10 @@ title: projects
                   {% assign names = project.permalink | split: "/" %}
                   <img src="{{ base_path }}/assets/images/{{ names[1] }}-preview.png">
                   <div class="overlay">
-                    <div class="text">{{ project.title }}</div>
+                    <div class="text">{{ project.title }}<br><br><small><i>{{ project.instrumentation }}</i></small></div>
                   </div>
                 </div>
-            </a>
+              </a>
           </div>
       </div>
   {% cycle 'end row' : '', '', '</div>' %}
