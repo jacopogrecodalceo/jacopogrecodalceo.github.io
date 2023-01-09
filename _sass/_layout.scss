@@ -160,7 +160,6 @@ body {
       -webkit-filter: grayscale(0); /* Chrome 19+ & Safari 6+ */
       -moz-filter: grayscale(0)
   }
-  border: solid $header-color 5px;
   height: auto;
 }
 
@@ -177,13 +176,13 @@ body {
   height: 100%;
   width: 100%;
   opacity: 0;
-  transition: .5s ease;
-  background-color: #0000007b;
+  transition: 1.5s ease;
+  background-color: #000000b3;
 }
 
 .text {
   color: white;
-  font-size: 25px;
+  font-size: 1.5rem;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -199,7 +198,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  border: solid $header-color 5px;
 }
 
 /**
