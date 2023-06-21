@@ -1,9 +1,0 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-.gitignore
-**/.DS_Store
-
-__git-push.command
