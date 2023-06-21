@@ -1,8 +1,8 @@
 ---
 title: Métamorphose
 slug: metamorphose
-instrumentation: for video, fixed electronic and diskclavier
-tags: video, electronic, diskclavier
+instrumentation: pour vidéo en temps réel, sons fixés et disklavier
+tags: video, electronic, disklavier
 year: 2018
 ---
 
