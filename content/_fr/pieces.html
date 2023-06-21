@@ -1,0 +1,18 @@
+---
+title: pieces
+---
+{% for piece in site[page.collection] reversed %}
+  {% if piece.path contains 'pieces/' %}
+  <ul>
+      <li>
+        <a href="{{ piece.url | prepend: site.base_url }}">{{ piece.title }}</a>
+        <br>
+        <i>{{ piece.instrumentation }}</i>
+        <br>
+        {{ piece.year }}
+        <br><br>
+      </li>
+  </ul>
+  {% endif %}
+{% endfor %}
+

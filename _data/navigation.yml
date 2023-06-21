@@ -1,0 +1,45 @@
+navigation_items:
+
+  en:
+    - label: home
+      path: /en/index.html
+    
+    - label: news
+      path: /en/news.html
+
+    - label: projects
+      path: /en/projects.html
+
+    - label: pieces
+      path: /en/pieces.html
+
+    - label: Cordelia
+      path: /en/cordelia.html
+
+    - label: about
+      path: /en/about.html
+
+    - label: contact
+      path: /en/contact.html
+
+  fr:
+    - label: home
+      path: /fr/index.html
+
+    - label: news
+      path: /fr/news.html
+
+    - label: projets
+      path: /fr/projects.html
+
+    - label: pièces
+      path: /fr/pieces.html
+
+    - label: Cordelia
+      path: /fr/cordelia.html
+
+    - label: about
+      path: /fr/about.html
+
+    - label: contact
+      path: /fr/contact.html

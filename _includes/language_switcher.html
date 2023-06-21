@@ -1,0 +1,7 @@
+<ul class="language-switcher">
+  {% for lang in site.data.languages %}
+    <li class=' header__nav__item {% if lang.code == page.lang %} is-active {% endif %}'>
+      <a href="{{ page.url | replace: /page.lang/, /lang.code/ }}">{{ lang.name }}</a>
+    </li>
+  {% endfor %}
+</ul>

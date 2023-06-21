@@ -1,0 +1,16 @@
+
+{% assign current_language = page.collection | default: site.language_default %}
+
+{% assign navigation_items = site.data.navigation.navigation_items.[current_language] %}
+
+{% unless menu_items %}
+  {% assign menu_items = site.data.navigation.navigation_items.[site.language_default] %}
+{% endunless %}
+
+<nav>
+	{% for item in navigation_items %}
+		<a	href="{{ item.path | prepend: site.base_url }} " class='header__nav__item {% if page.url == item.path %} is-active {% endif %}' > 
+			{{ item.label }}
+		</a>
+	{% endfor %}
+</nav>

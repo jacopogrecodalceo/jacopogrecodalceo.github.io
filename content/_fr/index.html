@@ -1,0 +1,10 @@
+---
+title: home
+---
+<div>
+  {% for project in site[page.collection] reversed %}
+    {% if project.path contains 'chiedimi' %}
+      <a href="{{ project.url | prepend: site.base_url }}"><img class="index-img" alt="{{ project.title }}" src="{{ site.baseurl }}/assets/images/{{ project.slug }}.png"></a>
+    {% endif %}
+  {% endfor %}
+</div>

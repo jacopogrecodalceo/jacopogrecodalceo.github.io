@@ -1,0 +1,36 @@
+<footer class='footer'>
+  {% assign site_footer_pages = site.pages | where: 'is_footer', true %}
+
+  {% if site_footer_pages.size > 0 %}
+    <ul class='footer__list'>
+      {% for site_footer_page in site_footer_pages %}
+        <li class='footer__item'>
+          <a href='{{ site_footer_page.url | relative_url }}'>{{ site_footer_page.title | escape }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  <ul class='footer__list footer__list--social'>
+    {% if site.author %}
+      <li class='footer__item'>{{ site.author | downcase }}</li>
+    {% endif %}
+  </ul>
+
+  <ul class='footer__list footer__list--social'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <li class='footer__item'>
+      <a href='https://www.facebook.com/{{ site.facebook_username }}' class="fa fa-facebook" target="_blank"></a>
+    </li>
+    <li class='footer__item'>
+      <a href='https://www.instagram.com/{{ site.instagram_username }}' class="fa fa-instagram" target="_blank"></a>
+    </li>
+    <li class='footer__item'>
+      <a href='https://www.vimeo.com/{{ site.vimeo_username }}' class="fa fa-vimeo" target="_blank"></a>
+    </li>
+    <li class='footer__item'>
+      <a href='https://www.github.com/{{ site.github_username }}' class="fa fa-github" target="_blank"></a>
+    </li>
+  </ul>
+</footer>

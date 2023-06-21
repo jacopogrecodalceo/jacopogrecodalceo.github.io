@@ -1,0 +1,74 @@
+author: Jacopo Greco d'Alceo
+email: jacopo.grecodalceo [at] gmail.com
+
+github_username: jacopogrecodalceo
+facebook_username: jacopogrecodalceo
+instagram_username: jacopo_grecodalceo
+vimeo_username: jacopogrecodalceo
+soundcloud_username: jacopogrecodalceo
+bandcamp_username: jacopogrecodalceo
+
+language_default: fr
+
+collections_dir: content
+
+collections:
+  en:
+    output: true
+    permalink: /:collection/:title
+  fr:
+    output: true
+    permalink: /:collection/:title
+
+defaults:
+
+  - scope:
+      path: ""
+      type: fr
+    values:
+      layout: default
+      lang: "fr"
+
+  - scope:
+      path: "_en/"
+      type: en
+    values:
+      layout: default
+      lang: "en"
+  - scope:
+      path: "_fr/"
+      type: fr
+    values:
+      layout: default
+      lang: "fr"
+
+  - scope:
+      path: "_en/projects/"
+      type: en
+    values:
+      layout: projects
+      permalink: /:collection/projects/:slug
+
+  - scope:
+      path: "_fr/projects/"
+      type: fr
+    values:
+      layout: projects
+      permalink: /:collection/projects/:slug
+
+  - scope:
+      path: "_en/pieces/"
+      type: en
+    values:
+      layout: pieces
+      permalink: /:collection/pieces/:slug
+
+  - scope:
+      path: "_fr/pieces/"
+      type: fr
+    values:
+      layout: pieces
+      permalink: /:collection/pieces/:slug
+
+plugins:
+  - jekyll-sitemap
