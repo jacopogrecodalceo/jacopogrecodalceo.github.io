@@ -5,7 +5,7 @@ title: pieces
   {% if piece.path contains 'pieces/' %}
   <ul>
       <li>
-        <a href="{{ piece.url | prepend: site.base_url }}">{{ piece.title }}</a>
+        <a href="{{ piece.url | prepend: site.url }}">{{ piece.title }}</a>
         <br>
         <i>{{ piece.instrumentation }}</i>
         <br>

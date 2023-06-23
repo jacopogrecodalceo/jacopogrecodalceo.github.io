@@ -1,11 +1,15 @@
 ---
 title: ghosts memory holds
-slug: ghost_memory_holds
+slug: ghosts_memory_holds
 instrumentation: for double flute and electronic
 tags: double flute, electronic
 year: 2023
 ---
 for _Silvia Berchtold_
+
+        « Remember thee!
+        Ay, thou poor ghost, while memory holds a seat In this distracted globe.
+        Remember thee! »
 
 Commissioned as part of the InSzene support programme of the Podium Gegenwart of the German Music Council.
 
@@ -13,10 +17,10 @@ Commissioned as part of the InSzene support programme of the Podium Gegenwart of
 
 _ghosts memory holds_ is imagined as a long piece in four sections. It puts into perspective the sensation of transparency with the memory that leaves. The double flute, electronics, voice and the presence of the performer create a choir that projects musical perspectives like wakes stretching out into space.
 
-    I.      des formes lointaines (distant forms)
-    II.     le chemin des fleurs (the path of flowers)
-    III.    ventre! (tummy, wumb!)
-    IV.     retour au souffle (return to breath)
+        I.      des formes lointaines (distant forms)
+        II.     le chemin des fleurs (the path of flowers)
+        III.    ventre! (tummy, wumb!)
+        IV.     retour au souffle (return to breath)
 
 This first version portrays the third part.
 

@@ -1,5 +1,7 @@
 author: Jacopo Greco d'Alceo
 email: jacopo.grecodalceo [at] gmail.com
+description: Jacopo Greco d'Alceo's website
+
 
 github_username: jacopogrecodalceo
 facebook_username: jacopogrecodalceo
@@ -21,26 +23,6 @@ collections:
     permalink: /:collection/:title
 
 defaults:
-
-  - scope:
-      path: ""
-      type: fr
-    values:
-      layout: default
-      lang: "fr"
-
-  - scope:
-      path: "_en/"
-      type: en
-    values:
-      layout: default
-      lang: "en"
-  - scope:
-      path: "_fr/"
-      type: fr
-    values:
-      layout: default
-      lang: "fr"
 
   - scope:
       path: "_en/projects/"
@@ -69,6 +51,26 @@ defaults:
     values:
       layout: pieces
       permalink: /:collection/pieces/:slug
+
+  - scope:
+      path: ""
+      type: fr
+    values:
+      layout: default
+      lang: "fr"
+
+  - scope:
+      path: "_en/"
+      type: en
+    values:
+      layout: default
+      lang: "en"
+  - scope:
+      path: "_fr/"
+      type: fr
+    values:
+      layout: default
+      lang: "fr"
 
 plugins:
   - jekyll-sitemap

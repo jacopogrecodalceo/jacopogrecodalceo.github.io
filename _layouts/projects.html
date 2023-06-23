@@ -8,13 +8,14 @@
       <main class="main">
         <h1>{{ page.title }}</h1>
         <h3><i>{{ page.instrumentation }}</i></h3>
+        <i>{{ page.year }}</i>
         <img
           alt="{{ page.title }}"
-          src="{{ site.baseurl }}/assets/images/{{ page.slug }}.png"
+          src="{{ site.url }}/assets/images/{{ page.slug }}.png"
           width="auto"
         />
         {{ content }}
-        <a href="{{ site.baseurl }}/{{ page.collection }}/projects">
+        <a href="{{ site.url }}/{{ page.collection }}/projects">
           << {{ site.data.translations.back[page.collection] }}
         </a>
       </main>

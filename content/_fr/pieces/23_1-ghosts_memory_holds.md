@@ -1,22 +1,26 @@
 ---
 title: ghosts memory holds
-slug: ghost_memory_holds
+slug: ghosts_memory_holds
 instrumentation: pour double flûte et voix électronique
 tags: double flûte, électronique
 year: 2023
 ---
 pour _Silvia Berchtold_
 
-Œuvre commandée dans le cadre du programme de soutien InSzene du Podium Gegenwart du Conseil allemand de la musique
+        « Remember thee!
+        Ay, thou poor ghost, while memory holds a seat In this distracted globe.
+        Remember thee! »
+
+Œuvre commandée dans le cadre du programme de soutien InSzene du Podium Gegenwart du Conseil allemand de la musique.
 
 <img src="/assets/images/ghosts_memory_holds.png" width="50%"/>
 
 _ghosts memory holds_ est imaginée comme une longue pièce en quatre parties qui propose de mettre en perspective la sensation de transparence ou d’impuissance avec la memoire qui laisse. La double flûte, l’électronique, la voix et la présence de l’interprète construisent une chorale qui voudrait projeter les perspectives musicales comme des sillages qui s’étendent dans l’espace.
 
-    I.      des formes lointaines
-    II.     le chemin des fleurs
-    III.    ventre!
-    IV.     retour au souffle
+        I.      des formes lointaines
+        II.     le chemin des fleurs
+        III.    ventre!
+        IV.     retour au souffle
 
 Cette première version portrait la troisième partie.
 

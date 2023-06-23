@@ -7,9 +7,9 @@ title: projects
     {% cycle 'add row' : '<div class="row">', '', '' %}
         <div class="column column-33">
             <div class="projects-preview">
-                <a href="{{ project.url | prepend: site.base_url }}">
+                <a href="{{ project.url | prepend: site.url }}">
                   <div class="preview-images">
-                    <img src="{{ site.baseurl }}/assets/images/{{ project.slug }}-preview.png">
+                    <img src="{{ site.url }}/assets/images/{{ project.slug }}-preview.png">
                     <div class="overlay">
                       <div class="text">{{ project.title }}<br><br><small><i>{{ project.instrumentation }}</i><br><small>{{ project.year }}</small></small></div>
                     </div>
