@@ -4,6 +4,7 @@ slug: ghosts_memory_holds
 instrumentation: for double flute and electronic
 tags: double flute, electronic
 year: 2023
+partners: InSzene programme Podium Gegenwart
 ---
 for _Silvia Berchtold_
 

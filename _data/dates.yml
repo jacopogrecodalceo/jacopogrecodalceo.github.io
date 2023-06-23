@@ -1,0 +1,26 @@
+- what: "Cordelia presents Cordelia"
+  when: "2023-07-14"
+  site: https://fb.me/e/6Fm8RmQcX
+  name: "Festival 16:30"
+  where: "Le Paradis"
+  maps: https://goo.gl/maps/R5R3ngVDDubvokAx8
+  city: "Périgueux"
+  country: "FR"
+
+- what: "ghosts memory holds"
+  when: "2023-06-18"
+  site: https://www.musikfestspiele-potsdam.de/programm/kalender/programm-details/fahrradkonzert-auf-ins-gruene-26a.html
+  name: "Musikfestspiele Potsdam Sanssouci"
+  where: "Sanssouci"
+  maps: https://goo.gl/maps/CXMyP7vhtxaaLt688
+  city: "Potsdam"
+  country: "DE"
+
+- what: "A letter to Taipei"
+  when: "2023-02-15"
+  site: http://www.cave-poesie.com/love-me-tender/
+  name: "love me tender"
+  where: "la cave po'"
+  maps: https://goo.gl/maps/k5w9Rdxv7mBZvok48
+  city: "Toulouse"
+  country: "FR"

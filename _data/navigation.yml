@@ -4,8 +4,8 @@ navigation_items:
     - label: home
       path: /en/index.html
     
-    - label: news
-      path: /en/news.html
+    - label: dates
+      path: /en/dates.html
 
     - label: projects
       path: /en/projects.html
@@ -26,8 +26,8 @@ navigation_items:
     - label: home
       path: /fr/index.html
 
-    - label: news
-      path: /fr/news.html
+    - label: dates
+      path: /fr/dates.html
 
     - label: projets
       path: /fr/projects.html

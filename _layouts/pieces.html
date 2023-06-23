@@ -15,6 +15,11 @@
           class="piece-pic"
         />
         {{ content }}
+        {% if page.partners %}
+          <br>
+          <i>{{ site.data.translations.partners[page.collection] }} {{ page.partners }}</i>
+          <br>
+        {% endif %}
         <a href="{{ site.url }}/{{ page.collection }}/projects">
           << {{ site.data.translations.back[page.collection] }}
         </a>
