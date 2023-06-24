@@ -19,7 +19,7 @@ a {
 }
 
 .layout {
-  max-width: 900px;
+  max-width: 1280px;
   margin: auto;
   padding: 0 25px;
 }
@@ -64,7 +64,7 @@ a {
 
 .header__nav__item:hover {
   padding: 5px;
-  -webkit-transition: .5s ease;
+  -webkit-transition: .75s ease;
   background-color: fuchsia;
 }
 
@@ -76,36 +76,6 @@ a {
 .header__title {
   font-size: 1.6rem;
   margin-right: 45px;
-}
-
-.posts {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.posts__item {
-  display: flex;
-  flex-wrap: wrap;
-  margin-bottom: 50px;
-  align-items: baseline;
-}
-
-.posts__date {
-  width: 30%;
-  color: $post-date-color;
-  font-size: 1rem;
-  font-family: $monospaced-fonts;
-}
-
-.posts__title {
-  width: 70%;
-  font-size: 1rem;
-}
-
-.posts__link {
-  color: $post-link-color;
-  text-decoration: none;
 }
 
 .footer {
@@ -164,14 +134,14 @@ a {
   box-sizing: border-box;
 
   -webkit-transition: -webkit-filter 3.5s ease;
-  -webkit-filter: grayscale(1);
+  -webkit-filter: grayscale(0);
 
   &:hover {
       filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+ */
       filter: gray; /* IE6-9 */
       -webkit-transition: -webkit-filter .5s ease;
-      -webkit-filter: grayscale(0); /* Chrome 19+ & Safari 6+ */
-      -moz-filter: grayscale(0)
+      -webkit-filter: grayscale(1); /* Chrome 19+ & Safari 6+ */
+      -moz-filter: grayscale(1)
   }
   height: auto;
 }
@@ -234,11 +204,6 @@ img {
   display: flex;
   align-items: center;
   font-size: 9px;
-}
-
-.language-switcher is-active {
-  font-weight: bold;
-  color: #333;
 }
 
 .piece-pic {

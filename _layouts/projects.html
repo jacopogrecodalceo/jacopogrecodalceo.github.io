@@ -25,13 +25,13 @@
 				{% endfor %}
 
 				{{ content }}
-
+				<br>
 				{% if page.partners %}
 					<br>
 					<i>{{ site.data.translations.partners[page.collection] }} {{ page.partners }}</i>
 					<br>
 				{% endif %}
-
+				<br>
 				<a href="{{ site.url }}/{{ page.collection }}/projects">
 					<< {{ site.data.translations.back[page.collection] }}
 				</a>

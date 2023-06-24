@@ -13,9 +13,8 @@
 		{% capture nav_url %}
 			{{ site.url }}/{{ current_language }}/{{ item.url_name }}
 		{% endcapture %}
-		<a	href="{{ nav_url }}" class='header__nav__item {% if page.url == item.path %} is-active {% endif %}' > 
+		<a	href="{{ nav_url }}" class='header__nav__item {% if page.url contains item.url_name %} is-active {% endif %}' > 
 			{{ item.label }}
 		</a>
 	{% endfor %}
 </nav>
-

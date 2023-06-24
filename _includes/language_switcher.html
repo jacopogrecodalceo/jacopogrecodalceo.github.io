@@ -3,14 +3,14 @@
 		{% if page.url == '/' %}
 			<p>
 				<a href="{{ page.url }}{{ lang.code }}"
-				class="language-switcher {% if lang.code == page.lang %} is-active {% endif %}">
+				class="language-switcher {% if lang.code == page.collection %} is-active {% endif %}">
 				| {{ lang.name }} |
 				</a>
 			</p>
 		{% else %}
 			<p>
 				<a href="{{ page.url | replace: page.collection, lang.code }}"
-				class="language-switcher {% if lang.code == page.lang %} is-active {% endif %}">
+				class="language-switcher {% if lang.code == page.collection %} is-active {% endif %}">
 				| {{ lang.name }} |
 				</a>
 			</p>
