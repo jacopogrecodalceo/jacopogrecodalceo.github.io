@@ -1,30 +1,45 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
 
-  <body>
-    <div class="layout">
-      {% include header.html %}
-      <main class="main">
-        <h1>{{ page.title }}</h1>
-        <h3><i>{{ page.instrumentation }}</i></h3>
-        <i>{{ page.year }}</i>
-        <img
-          alt="{{ page.title }}"
-          src="{{ site.url }}/assets/images/{{ page.slug }}.png"
-          width="auto"
-        />
-        {{ content }}
-        {% if page.partners %}
-          <br>
-          <i>{{ site.data.translations.partners[page.collection] }} {{ page.partners }}</i>
-          <br>
-        {% endif %}
-        <a href="{{ site.url }}/{{ page.collection }}/projects">
-          << {{ site.data.translations.back[page.collection] }}
-        </a>
-      </main>
-      {% include footer.html %}
-    </div>
-  </body>
+	{% include head.html %}
+
+	<body>
+		<div class="layout">
+			{% include header.html %}
+			<main class="main">
+				<h1>{{ page.title }}</h1>
+				<h3><i>{{ page.instrumentation }}</i></h3>
+				<i>{{ page.year }}</i>
+				{% for file in site.static_files %}
+					{% if file.path contains 'assets/images' %}
+						{% if file.path contains page.slug %}
+							{% unless file.path contains '-preview' %}
+								<img
+								alt="{{ page.title }}"
+								src="{{ site.url }}{{ file.path }}"
+								width="auto"
+								/>
+							{% endunless %}	
+						{% endif %}
+					{% endif %}
+				{% endfor %}
+
+				{{ content }}
+
+				{% if page.partners %}
+					<br>
+					<i>{{ site.data.translations.partners[page.collection] }} {{ page.partners }}</i>
+					<br>
+				{% endif %}
+
+				<a href="{{ site.url }}/{{ page.collection }}/projects">
+					<< {{ site.data.translations.back[page.collection] }}
+				</a>
+
+			</main>
+
+			{% include footer.html %}
+
+		</div>
+	</body>
 </html>

@@ -2,10 +2,21 @@
 title: home
 ---
 
+
 <div>
-  {% for project in site['fr'] reversed %}
-    {% if project.path contains 'chiedimi' %}
-      <a href="{{ project.url }}"><img class="index-img" alt="{{ project.title }}" src="{{ site.baseurl }}/assets/images/{{ project.slug }}.png"></a>
-    {% endif %}
-  {% endfor %}
+	{% for file in site.static_files %}
+		{% if file.path contains 'chiedimi' %}
+			{% if file.path contains 'assets/images' %}
+				{% unless file.path contains '-preview' %}
+					<a href="{{ site.url }}/fr/projects/chiedimi-le-mie-radici">
+						<img
+						alt="chiedimi le mie radici"
+						src="{{ site.url }}{{ file.path }}"
+						width="auto"
+						/>
+					</a>
+				{% endunless %}	
+			{% endif %}
+		{% endif %}
+	{% endfor %}
 </div>

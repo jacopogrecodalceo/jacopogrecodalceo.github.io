@@ -2,44 +2,44 @@ navigation_items:
 
   en:
     - label: home
-      path: /en/index
+      url_name: index
     
     - label: dates
-      path: /en/dates
+      url_name: dates
 
     - label: projects
-      path: /en/projects
+      url_name: projects
 
     - label: pieces
-      path: /en/pieces
+      url_name: pieces
 
     - label: Cordelia
-      path: /en/cordelia
+      url_name: cordelia
 
     - label: about
-      path: /en/about
+      url_name: about
 
     - label: contact
-      path: /en/contact
+      url_name: contact
 
   fr:
     - label: home
-      path: /fr/index
-
+      url_name: index
+    
     - label: dates
-      path: /fr/dates
+      url_name: dates
 
     - label: projets
-      path: /fr/projects
+      url_name: projects
 
     - label: pièces
-      path: /fr/pieces
+      url_name: pieces
 
     - label: Cordelia
-      path: /fr/cordelia
+      url_name: cordelia
 
     - label: about
-      path: /fr/about
+      url_name: about
 
     - label: contact
-      path: /fr/contact
+      url_name: contact

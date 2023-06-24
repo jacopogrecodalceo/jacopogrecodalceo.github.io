@@ -1,7 +1,19 @@
 <ul class="language-switcher">
-  {% for lang in site.data.languages %}
-    <p>
-      <a href="{{ page.url | replace: /page.lang, /lang.code }}" class="language-switcher {% if lang.code == page.lang %} is-active {% endif %}"> | {{ lang.name }} | </a>
-    </p>
-  {% endfor %}
+	{% for lang in site.data.languages %}
+		{% if page.url == '/' %}
+			<p>
+				<a href="{{ page.url }}{{ lang.code }}"
+				class="language-switcher {% if lang.code == page.lang %} is-active {% endif %}">
+				| {{ lang.name }} |
+				</a>
+			</p>
+		{% else %}
+			<p>
+				<a href="{{ page.url | replace: page.collection, lang.code }}"
+				class="language-switcher {% if lang.code == page.lang %} is-active {% endif %}">
+				| {{ lang.name }} |
+				</a>
+			</p>
+		{% endif %}
+	{% endfor %}
 </ul>

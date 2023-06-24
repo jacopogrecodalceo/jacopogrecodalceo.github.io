@@ -1,22 +1,28 @@
 ---
-title: projects
+title: projets
 ---
 
 {% for project in site[page.collection] reversed %}
-  {% if project.path contains 'projects/' %}
-    {% cycle 'add row' : '<div class="row">', '', '' %}
-        <div class="column column-33">
-            <div class="projects-preview">
-                <a href="{{ project.url | prepend: site.url }}">
-                  <div class="preview-images">
-                    <img src="{{ site.url }}/assets/images/{{ project.slug }}-preview.png">
-                    <div class="overlay">
-                      <div class="text">{{ project.title }}<br><br><small><i>{{ project.instrumentation }}</i><br><small>{{ project.year }}</small></small></div>
-                    </div>
-                  </div>
-                </a>
-            </div>
-        </div>
-    {% cycle 'end row' : '', '', '</div>' %}
-  {% endif %}
+	{% if project.path contains 'projects/' %}
+		{% cycle 'add row' : '<div class="row">', '', '' %}
+				<div class="column column-33">
+						<div class="projects-preview">
+								<a href="{{ project.url | prepend: site.url }}">
+									<div class="preview-images">
+										{% for file in site.static_files %}
+											{% if file.path contains 'assets/images' %}
+												{% if file.path contains project.slug and file.path contains '-preview' %}
+													<img src="{{ site.url }}{{ file.path }}" alt="{{ project.title }}">
+												{% endif %}
+											{% endif %}
+										{% endfor %}
+										<div class="overlay">
+											<div class="text">{{ project.title }}<br><br><small><i>{{ project.instrumentation }}</i><br><small>{{ project.year }}</small></small></div>
+										</div>
+									</div>
+								</a>
+						</div>
+				</div>
+		{% cycle 'end row' : '', '', '</div>' %}
+	{% endif %}
 {% endfor %}
