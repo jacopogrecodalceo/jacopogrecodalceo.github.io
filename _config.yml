@@ -2,6 +2,7 @@ author: Jacopo Greco d'Alceo
 email: jacopo.grecodalceo [at] gmail.com
 description: Jacopo Greco d'Alceo's website
 
+url: https://jacopogrecodalceo.github.io
 
 github_username: jacopogrecodalceo
 facebook_username: jacopogrecodalceo
@@ -74,3 +75,6 @@ defaults:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
+
+github: [metadata]

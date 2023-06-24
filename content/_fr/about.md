@@ -1,5 +1,6 @@
 ---
 title: about
+description: Page de présentation de Jacopo Greco d'Alceo
 ---
 
 Creation is a compromise between reality and abstraction.

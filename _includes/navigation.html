@@ -9,7 +9,7 @@
 
 <nav>
 	{% for item in navigation_items %}
-		<a	href="{{ item.path | prepend: site.base_url }} " class='header__nav__item {% if page.url == item.path %} is-active {% endif %}' > 
+		<a	href="{{ item.path | prepend: site.url }} " class='header__nav__item {% if page.url == item.path %} is-active {% endif %}' > 
 			{{ item.label }}
 		</a>
 	{% endfor %}

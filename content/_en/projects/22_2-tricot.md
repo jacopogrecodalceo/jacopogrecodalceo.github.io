@@ -8,7 +8,7 @@ year: 2021/2022
 
 - FEST - 2021 New Directors, New Films Festival, Official Selection 2021
 - PÖFF SHORTS, Official Selection 2021
-- Short Film Market - Festival international du court métrage de Clermont-Ferrand, Official Selection 2021
+- Short Film Market - Festival international dubun court métrage de Clermont-Ferrand, Official Selection 2021
 - Short KIEZ BERLIN FILM FESTIVAL, May 2021 Best Dance Film
 - AUSTIN INTERNATIONAL ART FESTIVAL, June 2021 Best International Experimental Short 
 - LOS ANGELES FILM AWARDS, June 2021 Honorable Mention: Musical/Dance Film 
