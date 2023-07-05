@@ -11,7 +11,8 @@ html {
 
 body {
   background-color: $body-bg-color;
-  font-family: $monospaced-fonts;
+  font-family: $serif-fonts;
+  text-align: justify;
 }
 
 a {
@@ -51,7 +52,8 @@ a {
 .header__title {
   text-decoration: none;
   font-size: 1rem;
-  font-family: $monospaced-fonts;
+  font-weight: 600; /* Set the font weight to semibold */
+  font-family: $serif-fonts;
   color: $header-color;
   letter-spacing: .35rem;
 }
