@@ -34,3 +34,20 @@
   city: "Lyon"
   country: "FR"
 
+- what: "TRICOT"
+  when: "2021-10-07"
+  site: https://site.fest.pt/en/archive/2021/film-program/silver-lynx/tricot/
+  name: "FEST - New Directors | New Films Festival"
+  where: "Centro Multimeios de Espinho"
+  maps: https://goo.gl/maps/WruUeMyXKmT3NA8j8
+  city: "Espinho"
+  country: "PT"
+
+- what: "TRICOT"
+  when: "2021-11-21"
+  site: https://poff.ee/en/film/dance-films-physical-storytelling/
+  name: "Black Nights Film Festival (aka PÖFF – Pimedate Ööde FilmiFestival)"
+  where: "Hall 1 Kino Artis"
+  maps: https://goo.gl/maps/pTzSjkwmRhshE2RK7
+  city: "Tallinn"
+  country: "EE"

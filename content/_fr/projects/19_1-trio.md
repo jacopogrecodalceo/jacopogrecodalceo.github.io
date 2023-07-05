@@ -1,8 +1,8 @@
 ---
 title: trio³
 slug: trio
-instrumentation: for two percussionists and a dancer
-tags: dance, percussions
+instrumentation: pour deux percussionistes et une danseuse
+tags: danse, percussions
 year: 2022/2023
 ---
 

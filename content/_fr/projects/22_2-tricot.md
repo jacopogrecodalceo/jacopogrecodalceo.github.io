@@ -1,7 +1,7 @@
 ---
 title: TRICOꓕ
 slug: TRICOT
-instrumentation: for camera, fixed electronic and 5 wonderful dancers
+instrumentation: pour caméra, sons fixés et cinq merveilleux᛫ses danseur᛫se᛫s 
 tags: dance, video
 year: 2021/2022
 ---

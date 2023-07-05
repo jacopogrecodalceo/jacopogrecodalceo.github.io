@@ -1,8 +1,8 @@
 ---
 title: je, artiste
 slug: je_artiste
-instrumentation: for musicians, dancers and electronic
-tags: dance, electronic, public space
+instrumentation: pour musician᛫e᛫s, dancer᛫se᛫s et électroacoustique en temps réel
+tags: danse, électroacoustique, espace publique
 year: 2022
 ---
 
