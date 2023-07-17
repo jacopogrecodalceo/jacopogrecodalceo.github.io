@@ -1,8 +1,8 @@
 ---
 title: agate stone
 slug: agate_stone
-instrumentation: for fixed electronic and 8 musicians with ancient instruments
-tags: electronic, ancient music
+instrumentation: pour sons fixés et 8 musician᛫ne᛫s avec instruments anciens
+tags: électroacoustique, musique ancienne
 year: 2022/2023
 ---
 
