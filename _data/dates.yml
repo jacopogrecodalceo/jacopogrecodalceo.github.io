@@ -1,9 +1,14 @@
+- what: "Cordelia"
+  when: "2023-03-25"
+  site: "https://tmb-jeanguerrin.fr/spectacle/photographies-argentiques-axel-swann-poulsen/"
+  name: "Vernissage pour l'exposition photo de Axel Swann Poulsen"
+  city: "Théâtre Municipal Berthelot de Montreuil"
+  country: "FR"
+
 - what: "je, monstre"
   when: "2023-07-14"
   site: https://fb.me/e/6Fm8RmQcX
   name: "Festival 16:30"
-  where: "Le Paradis"
-  maps: https://goo.gl/maps/R5R3ngVDDubvokAx8
   city: "Périgueux"
   country: "FR"
 
@@ -11,8 +16,6 @@
   when: "2023-06-18"
   site: https://www.musikfestspiele-potsdam.de/programm/kalender/programm-details/fahrradkonzert-auf-ins-gruene-26a.html
   name: "Musikfestspiele Potsdam"
-  where: "Sanssouci"
-  maps: https://goo.gl/maps/CXMyP7vhtxaaLt688
   city: "Potsdam"
   country: "DE"
 
@@ -20,8 +23,6 @@
   when: "2023-02-15"
   site: http://www.cave-poesie.com/love-me-tender/
   name: "love me tender"
-  where: "la cave po'"
-  maps: https://goo.gl/maps/k5w9Rdxv7mBZvok48
   city: "Toulouse"
   country: "FR"
 
@@ -29,8 +30,6 @@
   when: "2023-07-02"
   site: https://www.instagram.com/p/CuMQYLrImV1/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==
   name: "Festival Superspective"
-  where: "Chapelle Magnétique"
-  maps: https://goo.gl/maps/V2ZhWZu4fATLzMXq5
   city: "Lyon"
   country: "FR"
 
@@ -38,8 +37,6 @@
   when: "2021-10-07"
   site: https://site.fest.pt/en/archive/2021/film-program/silver-lynx/tricot/
   name: "FEST - New Directors | New Films Festival"
-  where: "Centro Multimeios de Espinho"
-  maps: https://goo.gl/maps/WruUeMyXKmT3NA8j8
   city: "Espinho"
   country: "PT"
 
@@ -47,7 +44,5 @@
   when: "2021-11-21"
   site: https://poff.ee/en/film/dance-films-physical-storytelling/
   name: "Black Nights Film Festival (aka PÖFF – Pimedate Ööde FilmiFestival)"
-  where: "Hall 1 Kino Artis"
-  maps: https://goo.gl/maps/pTzSjkwmRhshE2RK7
   city: "Tallinn"
   country: "EE"

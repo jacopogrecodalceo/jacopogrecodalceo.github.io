@@ -18,7 +18,7 @@ title: dates
 
         {% capture date %}{{ d.when | date: '%s' | plus: 0 }}{% endcapture %}
         {% if date >= now %}
-                {{ d.when }}, <a href="{{ p_url }}" > <b>{{ d.what }}</b></a>, <a href="{{ d.site }}" target="_blank"> {{ d.name }}</a>, <a href="{{ d.maps }}" target="_blank"> <i>{{ d.where }}</i></a>, {{ d.city }} ({{ d.country }})<br>
+                {{ d.when }}, <a href="{{ p_url }}" > <b>{{ d.what }}</b></a>, <a href="{{ d.site }}" target="_blank"> {{ d.name }}</a>, {{ d.city }} ({{ d.country }})<br>
         {% endif %}
     {% endfor %}
 </div>
@@ -37,7 +37,7 @@ title: dates
 
         {% capture date %}{{ d.when | date: '%s' | plus: 0 }}{% endcapture %}
         {% if date < now %}
-            {{ d.when }}, <a href="{{ p_url }}" > <b>{{ d.what }}</b></a>, <a href="{{ d.site }}" target="_blank"> {{ d.name }}</a>, <a href="{{ d.maps }}" target="_blank"> <i>{{ d.where }}</i></a>, {{ d.city }} ({{ d.country }})<br>
+            {{ d.when }}, <a href="{{ p_url }}" > <b>{{ d.what }}</b></a>, <a href="{{ d.site }}" target="_blank"> {{ d.name }}</a>, {{ d.city }} ({{ d.country }})<br>
         {% endif %}
     {% endfor %}
 </div>
