@@ -1,47 +1,54 @@
 - what: "Cordelia"
-  when: "2023|03|25"
+  when: "2023 | 08 | 12"
+  site: "https://fb.me/e/10ucU2GSi"
+  name: "It's more fun to compute"
+  city: "Paris"
+  country: "FR"
+
+- what: "Cordelia"
+  when: "2023 | 03 | 25"
   site: "https://tmb-jeanguerrin.fr/spectacle/photographies-argentiques-axel-swann-poulsen/"
   name: "Vernissage pour l'exposition photo de Axel Swann Poulsen"
   city: "Théâtre Municipal Berthelot de Montreuil"
   country: "FR"
 
 - what: "je, monstre"
-  when: "2023|07|14"
+  when: "2023 | 07 | 14"
   site: https://fb.me/e/6Fm8RmQcX
   name: "Festival 16:30"
   city: "Périgueux"
   country: "FR"
 
 - what: "ghosts memory holds"
-  when: "2023|06|18"
+  when: "2023 | 06 | 18"
   site: https://www.musikfestspiele-potsdam.de/programm/kalender/programm-details/fahrradkonzert-auf-ins-gruene-26a.html
   name: "Musikfestspiele Potsdam"
   city: "Potsdam"
   country: "DE"
 
 - what: "A letter to Taipei"
-  when: "2023|02|15"
+  when: "2023 | 02 | 15"
   site: http://www.cave-poesie.com/love-me-tender/
   name: "love me tender"
   city: "Toulouse"
   country: "FR"
 
 - what: "A letter to Taipei"
-  when: "2023|07|02"
+  when: "2023 | 07 | 02"
   site: https://www.instagram.com/p/CuMQYLrImV1/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==
   name: "Festival Superspective"
   city: "Lyon"
   country: "FR"
 
 - what: "TRICOT"
-  when: "2021|10|07"
+  when: "2021 | 10 | 07"
   site: https://site.fest.pt/en/archive/2021/film-program/silver-lynx/tricot/
-  name: "FEST - New Directors | New Films Festival"
+  name: "FEST - New Directors  |  New Films Festival"
   city: "Espinho"
   country: "PT"
 
 - what: "TRICOT"
-  when: "2021|11|21"
+  when: "2021 | 11 | 21"
   site: https://poff.ee/en/film/dance-films-physical-storytelling/
   name: "Black Nights Film Festival (aka PÖFF – Pimedate Ööde FilmiFestival)"
   city: "Tallinn"
