@@ -1,11 +1,11 @@
 ---
-title: je, monstre
-slug: je_monstre
+title: 私の全部をあげるから
+slug: ti-darò-tutta-me-stessa
 instrumentation: for Cordelia
 tags: Cordelia, electronic
 year: 2023
 ---
-**Cordelia presents Cordelia**: _je, monstre_
+**Cordelia presents Cordelia**
 
 Composition is embodied in the idea of livecoding, a form of musical creation in real time in the mind and on the eye of the composer. An abstract and personal language becomes the intermediary between musical thought and its concrete, temporal and dramaturgical action. These sound cries exist through flesh, smile, mind; through a voluntary act, a desire. Material is shaped giving life to the extreme virtuosities that only the electroacoustic instrument allows to hear, leaving to the listener all the beauty of the interpretation.
 
