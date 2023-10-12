@@ -1,7 +1,7 @@
 ---
 title: soffio
 slug: soffio
-instrumentation: pour vidéo en temps réel, sons fixés et double bass
+instrumentation: pour vidéo en temps réel, sons fixés et contrebasse
 tags: vidéo, électronique, double bass
 year: 2018/2019
 ---
