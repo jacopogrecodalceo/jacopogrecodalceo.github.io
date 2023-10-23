@@ -14,7 +14,8 @@ for _Silvia Berchtold_
 
 Commissioned as part of the InSzene support programme of the Podium Gegenwart of the German Music Council.
 
-<img src="/assets/images/ghosts_memory_holds.png" width="50%"/>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/877194558?h=f145a583e1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 
 _ghosts memory holds_ is imagined as a long piece in four sections. It puts into perspective the sensation of transparency with the memory that leaves. The double flute, electronics, voice and the presence of the performer create a choir that projects musical perspectives like wakes stretching out into space.
 
