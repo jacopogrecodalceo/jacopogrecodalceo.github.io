@@ -1,7 +1,7 @@
-- what: "L"
+- what: "elle"
   when: "2023/11/05"
   site: "https://fb.me/e/1oLWAWG8t"
-  name: "écoutes périfériques"
+  name: "Écoutes Périfériques, grrrnd zero"
   city: "Lyon"
   country: "FR"
 
@@ -15,35 +15,35 @@
 - what: "Cordelia"
   when: "2023/03/25"
   site: "https://tmb-jeanguerrin.fr/spectacle/photographies-argentiques-axel-swann-poulsen/"
-  name: "Vernissage pour l'exposition photo de Axel Swann Poulsen"
-  city: "Théâtre Municipal Berthelot de Montreuil"
+  name: "Vernissage pour l'exposition photo de Axel Swann Poulsen, Théâtre Municipal Berthelot"
+  city: "Montreuil"
   country: "FR"
 
 - what: "elle"
   when: "2023/07/14"
   site: https://fb.me/e/6Fm8RmQcX
-  name: "Festival 16:30"
+  name: "Festival 16:30, Le Paradis Galerie Verbale"
   city: "Périgueux"
   country: "FR"
 
 - what: "ghosts memory holds"
   when: "2023/06/18"
   site: https://www.musikfestspiele-potsdam.de/programm/kalender/programm-details/fahrradkonzert-auf-ins-gruene-26a.html
-  name: "Musikfestspiele Potsdam"
+  name: "Musikfestspiele Sanssouci"
   city: "Potsdam"
   country: "DE"
 
 - what: "A letter to Taipei"
   when: "2023/02/15"
   site: http://www.cave-poesie.com/love-me-tender/
-  name: "love me tender"
+  name: "love me tender, La Cave Poésie"
   city: "Toulouse"
   country: "FR"
 
 - what: "A letter to Taipei"
   when: "2023/07/02"
   site: https://www.instagram.com/p/CuMQYLrImV1/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==
-  name: "Festival Superspective"
+  name: "Festival Superspective, La Maison de Lorette"
   city: "Lyon"
   country: "FR"
 
