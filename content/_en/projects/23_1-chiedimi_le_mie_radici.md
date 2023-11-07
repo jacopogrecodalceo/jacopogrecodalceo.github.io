@@ -1,7 +1,7 @@
 ---
 title: chiedimi le mie radici
 slug: chiedimi_le_mie_radici
-instrumentation: for a dancer in a quadraphony
+instrumentation: for a dancer in quadraphony
 tags: dance, quadraphony, electronic
 year: 2022/2023
 partners: Fondation d'entreprise Société Générale, Bourse Nguyen-Thien Dao
