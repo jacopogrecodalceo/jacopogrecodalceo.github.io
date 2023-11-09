@@ -1,5 +1,5 @@
 ---
-title: TRICOꓕ
+title: TRICOT
 slug: TRICOT
 instrumentation: for camera, fixed electronic and 5 wonderful dancers
 tags: dance, video

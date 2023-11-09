@@ -1,5 +1,5 @@
 ---
-title: TRICOꓕ
+title: TRICOT
 slug: TRICOT
 instrumentation: pour caméra, sons fixés et cinq merveilleux᛫ses danseur᛫se᛫s 
 tags: dance, video
