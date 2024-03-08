@@ -1,4 +1,11 @@
 - what: "elle"
+  when: "2024/03/03"
+  site: "https://reformiert-zuerich.ch/17.php"
+  name: "Stilles Zürich: "Stille Flamme" | w/ Silvia Berchtold"
+  city: "Zürich"
+  country: "CH"
+
+- what: "elle"
   when: "2023/11/05"
   site: "https://fb.me/e/1oLWAWG8t"
   name: "Écoutes Périfériques, grrrnd zero"
