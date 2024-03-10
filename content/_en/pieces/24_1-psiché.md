@@ -10,9 +10,7 @@ It's a bold exploration, a dialogue between the past manifesting in the present 
 
 Thanks to Pierre Darde for this incredible collaboration.
 
-**Musical composition**: Jacopo Greco d'Alceo
-**Choreographic composition**: Pierre Darde
-**Voice**: Armance Merle
-**Dancers**: Zoé Byl, Cassandre Dinh Thao,
-Hipolyte Hubert, Maëlle Follot-Ngbandy-Zeba, Maélie Mauro,
-Alexandre Marchand, Eugénie Noblanc
+**Musical composition**: Jacopo Greco d'Alceo <br>
+**Choreographic composition**: Pierre Darde <br>
+**Voice**: Armance Merle <br>
+**Dancers**: Zoé Byl, Cassandre Dinh Thao, Hipolyte Hubert, Maëlle Follot-Ngbandy-Zeba, Maélie Mauro, Alexandre Marchand, Eugénie Noblanc <br>

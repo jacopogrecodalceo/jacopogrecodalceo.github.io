@@ -2,7 +2,10 @@
 title: about
 ---
 
-Creation is a compromise between reality and abstraction.
-In his pieces, Jacopo Greco d'Alceo seeks less and less distance between the two, reducing the gap between body and work. The composer becomes the pieces: he makes them from his own flesh and experience, he is part of them. They are an extension of our raw material body which changes, suffers, rots and ages. Artworks must react, too. Artistic forms must burst in our contemporary and contextual expression. They can no longer be stuck in the same medium. The twisted connections behind all his works now become clear, just as discovering the silhouette of a dancer in the background: what at a first glance may seem different paths and pieces, now becomes one and only solid line. Perhaps different variations of a long piece, it has no interest in remaining attached to a fixed genre or form, but aims to dig and dig deeper to seize a fragment of truth and personal expression.
-
-Jacopo is lauréat de la Fondation Royaumont.
+Jacopo Greco d'Alceo, composer, born in 1989 in Milan (Italy).
+He began studying music and composition in Milan. He continued his master's studies in Lyon in the composition department of the CNSMD de Lyon (France). Here he found the ideal environment to cultivate his exploration of the relationship between musical and choreographic composition.
+This deeply personal odyssey begins with the piece «trio³» (2017-2019), a co-creation for two percussionists and a dancer. The physical and choreographic engagement of this musical writing led him to discover the importance of space and movement.
+Consequently, a new perspective on composition emerged, always situated within the realm of abstract inquiry, looking for interdisciplinary permeability. His pieces since then have always been marked by this: «soffio» (2018, for real-time video, fixed sounds and double bass) explores the museum space, the instrumental space and that of the painting "Cristo alla Colonna" by Donato Bramante in the "Pinacoteca di Brera" in Milan (Italy). It will be performed in New York, selected by the Mise-en «TRICOT» (2021, for camera, fixed sounds and five dancers) represents the culmination and complete fusion of a musical language inseparable from dance.
+The multifaceted roles of choreographer, composer and director are driven by a genuine artistic imperative to unite these disciplines. It has been selected by at least 9 international short film festivals (including FEST, PöFF and is currently listed in MUBI).
+His career has been marked by Anne Martin, Jean Geoffreoy, Alain Savouret, Giovanni Verrando, Andrea Agostini, Hervé Robbe and François Roux.
+Jacopo is a laureate of the Fondation Royaumont.

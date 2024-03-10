@@ -10,9 +10,7 @@ Il s’agit d’une exploration audacieuse, un dialogue entre ce que le passé d
 
 Merci à Pierre Darde pour cette incroyable collaboration.
 
-**Composition musicale** : Jacopo Greco d’Alceo
-**Composition chorégraphique** : Pierre Darde
-**Voix** : Armance Merle
-**Danseur•se•s** : Zoé Byl, Cassandre Dinh Thao,
-Hipolyte Hubert, Maëlle Follot-Ngbandy-Zeba, Maélie Mauro,
-Alexandre Marchand, Eugénie Noblanc
+**Composition musicale** : Jacopo Greco d’Alceo <br>
+**Composition chorégraphique** : Pierre Darde <br>
+**Voix** : Armance Merle <br>
+**Danseur•se•s** : Zoé Byl, Cassandre Dinh Thao, Hipolyte Hubert, Maëlle Follot-Ngbandy-Zeba, Maélie Mauro, Alexandre Marchand, Eugénie Noblanc <br>
