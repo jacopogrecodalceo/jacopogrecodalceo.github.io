@@ -4,6 +4,13 @@
   name: "Stilles Zürich: Stille Flamme | w/ Silvia Berchtold"
   city: "Zürich"
   country: "CH"
+  
+- what: "ghosts memory holds"
+  when: "2024/03/01"
+  site: "https://www.musica-aperta.ch/html/saison_2023-24.html"
+  name: "musica aperta | w/ Silvia Berchtold"
+  city: "Winterthur"
+  country: "CH"
 
 - what: "elle"
   when: "2023/11/05"
