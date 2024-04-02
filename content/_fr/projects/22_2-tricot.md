@@ -6,7 +6,7 @@ tags: dance, video
 year: 2021/2022
 ---
 
-**Tricot** est une composition pour caméra, sons fixés et cinq danseurs, née sous l'impératif créatif de **l'hybridation des genres** tout en explorant l'idée de **identité** et de **liberté**.
+**Tricot** est une composition pour caméra, sons fixés et cinq danseurs, née sous l'impératif créatif de **l'hybridation des genres** tout en explorant l'idée d'**identité** et de **liberté**.
 
 Les interprètes sont des êtres individuels qui **forment collectivement une seule entité unique**. Iels ne sont pas des corps dits "féminins" ou "masculins", mais de la matière organique vivante qui forme un seul corps dans son ensemble. Iels sont à la fois des individu᛫e᛫s et des membres qui ensemble créent un corps singulier et unique. Chaqun᛫e cherche une connexion avec l'autre, afin de répresenter les cinq extrémités de la figure humaine : la tête, les bras, les jambes. Chaque membre doit se connecter à celui᛫celle sur lequel iel s'appuie. Cette volonté de transcender les normes de genre vise à révéler la profondeur de la personnalité et de l'humanité individuelle, une recherche des relations humaines et du besoin paradoxal de définition à travers les perspectives des autres. 
 
