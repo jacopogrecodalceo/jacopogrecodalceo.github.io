@@ -1,10 +1,36 @@
 ---
 title: TRICOT
 slug: TRICOT
-instrumentation: for camera, fixed electronic and 5 wonderful dancers
-tags: dance, video
+instrumentation: for camera, tape and five wonderful dancers
+tags: dance, video, video-dance
 year: 2021/2022
 ---
+
+**Composer, choreographer and director**: Jacopo Greco d'Alceo <br>
+
+**Camera**: Pierre Darde <br>
+
+**Producer**: Jacopo Greco d'Alceo <br>
+
+**Dancers**: Bastien Charmette, Mélisande Tonolo, Axel Poulsen, Léna Dompy, Enzo Blond<br>
+
+---
+
+*Tricot* is a composition for camera, tape, and five dancers, born under the creative imperative of **gender hybridization** while exploring **identity** and **freedom**.
+
+The performers are individual beings who **collectively form a single entity**. They are not  "female" or "male" bodies; rather, they are organic living and breathing matter made of carbon that forms the body's figure as a whole. They are both individuals and components that together create a singular and unique body. Each individual continuously seeks connection, replicating the five points of the human structure: head, arms, and legs. Every limb must connect to the one it leans upon. A metaphor for human relationships and the paradoxical need for definition through others' perspectives. This desire to transcend gender norms aims to reveal the depth of personality and individual humanity.
+
+*Tricot* emerges from a desire to reconnect with the body in its most **physical, primal, and organic state**. It delves deeply into the realm of sensitivity through vibrant gazes, laughters, and touch, culminating in the creation of an almost ritualistic simulacrum. This simulacrum represents a bodily abstraction that, once deconstructed, seeks to discover a new definition.
+
+Camera is a performer alongside the dancers, moving independently and playing a central role in the piece. Like a loudspeaker, it acts as a bridge between the choreography and its realization. Its lens is is both the filter and the eyes of the audience. It blends seamlessly with the performers and the overall structure of the piece.
+
+*Tricot* is a metaphorical and thin red line which knot the camera to the dancers and the performers to the space (the library, both a temple of freedom and a sanctuary of classification).
+
+*Tricot* unfolds as a **one single continuous shot**, mirroring the endless flow of reality. It blurs the lines between video-dance and a live performance caption, presenting not a filmed dance but a video where bodies dance.
+
+---
+
+**Prizes and selections**:
 
 - FEST - 2021 New Directors, New Films Festival, Official Selection 2021
 - PÖFF SHORTS, Official Selection 2021
