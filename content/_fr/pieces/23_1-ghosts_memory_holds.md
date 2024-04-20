@@ -31,7 +31,7 @@ La mémoire peut évoquer une sensation de transparence ou d'impuissance. Nous d
 Dans cette dissimulation nous n'avons plus d'impact. Nous restons immobiles : pour provoquer des conséquences, il faut une présence. Il faut exprimer des idées et parler pour agir.
 C'est un peu comme un objet dans l'obscurité qui est éclairé par le soleil : la lumière représente cette entité, cette présence et le sentiment qui en découle est l'ombre.
 
-Aujourd'hui, l'artiste se doit de proposer de nouvelles perspectives, tout comme pouvait le faire le religieux•se ou l'érudit•e au Moyen Âge. Aujourd'hui, il est responsabilité de l'artiste de s'engager dans la création de nouvelles idées.
+Aujourd'hui, l'artiste se doit de proposer de nouvelles perspectives, tout comme pouvait le faire le religieux᛫se ou l'érudit᛫e au Moyen Âge. Aujourd'hui, il est responsabilité de l'artiste de s'engager dans la création de nouvelles idées.
 La double flûte permet à l'interprète de concrétiser cette polyphonie d'idées.
 On joue que des fantômes. On est des fantômes: l'interprète est le fantôme de son instrument ; le compositeur est le fantôme de sa pièce ; l'artiste est le fantôme du collectif.
 Il s'agit d'une relation avec la mémoire, les traces de l'histoire et la réminiscence qui parle et touche à la fois du personnel à l'universel.

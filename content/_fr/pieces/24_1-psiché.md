@@ -1,7 +1,7 @@
 ---
 title: psiché
 slug: psiche
-instrumentation: pour 7 danseur•se•s et sons fixés
+instrumentation: pour 7 danseur᛫se᛫s et sons fixés
 tags: électroacoustique, danse, ballet
 year: 2024
 ---
@@ -14,4 +14,4 @@ Merci à Pierre Darde pour cette collaboration.
 **Composition musicale** : Jacopo Greco d’Alceo <br>
 **Composition chorégraphique** : Pierre Darde <br>
 **Voix** : Armance Merle <br>
-**Danseur•se•s** : Zoé Byl, Cassandre Dinh Thao, Hipolyte Hubert, Maëlle Follot-Ngbandy-Zeba, Maélie Mauro, Alexandre Marchand, Eugénie Noblanc <br>
+**Danseur᛫se᛫s** : Zoé Byl, Cassandre Dinh Thao, Hipolyte Hubert, Maëlle Follot-Ngbandy-Zeba, Maélie Mauro, Alexandre Marchand, Eugénie Noblanc <br>
