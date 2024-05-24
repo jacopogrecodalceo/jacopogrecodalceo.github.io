@@ -9,12 +9,13 @@ partners: InSzene programme Podium Gegenwart
 for _Silvia Berchtold_
 
         « Remember thee!
-        Ay, thou poor ghost, while memory holds a seat In this distracted globe.
+        Ay, thou poor ghost, while memory holds a seat
+        In this distracted globe.
         Remember thee! »
 
 Commissioned as part of the InSzene support programme of the Podium Gegenwart of the German Music Council.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/877194558?h=f145a583e1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/877194558?h=f145a583e1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 _ghosts memory holds_ is imagined as a long piece in four sections. It puts into perspective the sensation of transparency with the memory that leaves. The double flute, electronics, voice and the presence of the performer create a choir that projects musical perspectives like wakes stretching out into space.
 
