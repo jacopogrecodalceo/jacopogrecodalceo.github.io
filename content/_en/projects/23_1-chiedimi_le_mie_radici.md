@@ -9,6 +9,8 @@ partners: Fondation d'entreprise Société Générale, Bourse Nguyen-Thien Dao
 
 with *Mélisande Tonolo*
 
+trad. « ask, but yearn for my roots »
+
 She, alone, performs all the 45-minutes long odyssey. An essential and minimal space is the **instrument** and the **scenography** of this piece. Her only surrounding: the audience and four speakers.
 
 The custom-made instrument is a square platform, divided into four pieces. Each piece is independently amplified, allowing the physical space to be directly connected to each speaker of the quadraphonic setup.
