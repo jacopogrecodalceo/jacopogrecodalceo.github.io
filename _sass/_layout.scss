@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-size: $default-font-size;
+  font-size: $default-font-size; // Set a fixed font size for better phone compatibility
 }
 
 *,
@@ -10,8 +10,8 @@ html {
 }
 
 body {
-  background-color: $body-bg-color;
-  font-family: $serif-fonts;
+  background-color: $body_bg_color;
+  font-family: $serif_fonts;
   text-align: justify;
 }
 
@@ -20,16 +20,16 @@ a {
 }
 
 .layout {
-  max-width: 1280px;
+  max-width: 100%; // Adjusted max-width for better phone compatibility
   margin: auto;
-  padding: 0 25px;
+  padding: 0 15px; // Adjusted padding for better phone compatibility
 }
 
 .header {
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
-  padding: 35px 0;
+  padding: 15px 0; // Adjusted padding for better phone compatibility
 }
 
 .main {
@@ -53,13 +53,13 @@ a {
   text-decoration: none;
   font-size: 1rem;
   font-weight: 600; /* Set the font weight to semibold */
-  font-family: $serif-fonts;
-  color: $header-color;
+  font-family: $serif_fonts;
+  color: $header_color;
   letter-spacing: .35rem;
 }
 
 .header__nav__item {
-  margin-right: 25px;
+  margin-right: 10px; // Adjusted margin for better phone compatibility
   padding: 5px;
   text-align: center;
 }
@@ -77,18 +77,16 @@ a {
 
 .header__title {
   font-size: 1.6rem;
-  margin-right: 45px;
+  margin-right: 20px; // Adjusted margin for better phone compatibility
 }
 
 .footer {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
+  display: block; // Adjusted display for better phone compatibility
   padding: 25px 0;
   font-size: .9rem;
   font-style: italic;
-  font-family: $monospaced-fonts;
-  color: $footer-color;
+  font-family: $monospaced_fonts;
+  color: $footer_color;
 }
 
 .footer__list {
@@ -104,7 +102,7 @@ a {
 }
 
 .footer__item a {
-  color: $footer-color;
+  color: $footer_color;
   text-decoration: none;
 }
 
@@ -129,10 +127,10 @@ a {
 .icon {
   height: .9rem;
   width: .9rem;
-  fill: $icon-color;
+  fill: $icon_color;
 }
 
-.projects-preview {
+.projects_preview {
   box-sizing: border-box;
 
   -webkit-transition: -webkit-filter 3.5s ease;
@@ -148,7 +146,7 @@ a {
   height: auto;
 }
 
-.preview-images:hover .overlay {
+.preview_images:hover .overlay {
   opacity: 1;
 }
 
@@ -177,7 +175,7 @@ a {
   text-align: center;
 }
 
-.index-img {
+.index_img {
   width: auto;
   margin: auto;
   display: flex;
@@ -198,8 +196,7 @@ img {
   margin: auto;
 }
 
-
-.language-switcher {
+.language_switcher {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -208,7 +205,7 @@ img {
   font-size: 9px;
 }
 
-.piece-pic {
+.piece_pic {
   display: flex;
-  width: 50%;
+  width: 100%; // Adjusted width for better phone compatibility
 }

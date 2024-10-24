@@ -4,17 +4,17 @@
   }
 
   .layout {
-    padding: 0 30px;
+    padding: 0 15px; // Adjusted padding for better phone compatibility
   }
 }
 
 @media screen and (max-width: 480px) {
   .main {
-    margin: 40px 0 100px;
+    margin: 20px 0 50px; // Adjusted margin for better phone compatibility
   }
 
   .header {
-    padding: 30px 0;
+    padding: 15px 0; // Adjusted padding for better phone compatibility
   }
 
   .posts__date {
@@ -23,7 +23,7 @@
   }
 
   .header__nav__item--title {
-    margin-right: 25px;
+    margin-right: 15px; // Adjusted margin for better phone compatibility
   }
 
   .footer {
@@ -35,10 +35,10 @@
   }
 
   .header__nav__item {
-    margin-right: 15px;
+    margin-right: 10px; // Adjusted margin for better phone compatibility
   }
 
   .header__title {
-    margin-right: 30px;
+    margin-right: 20px; // Adjusted margin for better phone compatibility
   }
 }
