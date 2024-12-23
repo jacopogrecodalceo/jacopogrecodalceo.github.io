@@ -1,3 +1,10 @@
+- what: "ladybird"
+  when: "2024/10/27"
+  site: "lamazane.com"
+  name: "la Mazane"
+  city: "Paris"
+  country: "FR"
+
 - what: "der Mond im Untergrund"
   when: "2024/08/31"
   site: "https://www.koelner-philharmonie.de/en/programm/felx-urban-tra-noi/4309"
