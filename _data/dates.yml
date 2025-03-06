@@ -1,3 +1,10 @@
+- what: "mélanines"
+  when: "2025/03/19"
+  site: "https://museeduluxembourg.fr/fr/agenda/evenement/tous-leger"
+  name: "Musée de Luxembourg"
+  city: "Paris"
+  country: "FR"
+
 - what: "ladybird"
   when: "2024/10/27"
   site: "lamazane.com"

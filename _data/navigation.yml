@@ -13,6 +13,9 @@ navigation_items:
     - label: pieces
       url_name: pieces
 
+    - label: album
+      url_name: album
+
     - label: Cordelia
       url_name: cordelia
 
@@ -34,6 +37,9 @@ navigation_items:
 
     - label: pièces
       url_name: pieces
+
+    - label: album
+      url_name: album
 
     - label: Cordelia
       url_name: cordelia

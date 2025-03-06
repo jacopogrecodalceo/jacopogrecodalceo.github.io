@@ -58,6 +58,20 @@ defaults:
       layout: pieces
       permalink: /:collection/pieces/:slug
 
+  - scope:
+      path: "_en/album"
+      type: en
+    values:
+      layout: pieces
+      permalink: /:collection/album/:slug
+
+  - scope:
+      path: "_fr/album"
+      type: fr
+    values:
+      layout: pieces
+      permalink: /:collection/album/:slug
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
