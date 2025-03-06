@@ -1,8 +1,8 @@
 ---
 title: album
 ---
-{% for piece in site[page.collection] reversed %}
-  {% if piece.path contains 'pieces/' %}
+{% for album in site[page.collection] reversed %}
+  {% if album.path contains 'album/' %}
   <ul>
       <li>
         <a href="{{ album.url | prepend: site.url }}">{{ album.title }}</a>
