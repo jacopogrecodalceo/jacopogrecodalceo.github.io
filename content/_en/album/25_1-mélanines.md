@@ -22,4 +22,10 @@ A longing to revive the discussion around **beauty**, transforming it into a liv
 
 ---
 
+## **LYRICs**  
+1. **giallo//ambra**    –   "jaune"
+2. **rosso//cremisi**   –   *laugh*, "regard le rouge !"  
+3. **blu//cobalto**     –   *laugh*, "à ne regarder trop loin.. regarder trop loin, à ne regarder trop loin de l'horizon"  
+4. **verde//petrolio**  –   *murmur*  
+
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1975776088&color=%23b522db&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

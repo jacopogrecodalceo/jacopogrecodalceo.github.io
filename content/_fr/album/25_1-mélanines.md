@@ -22,23 +22,10 @@ Un désir de relancer la discussion autour du **beau** et d’en faire un espace
 
 ---
 
-## **PAROLES**  
-1. **giallo//ambra** – *"jaune"*  
-2. **rosso//cremisi** – *rire*, "regard le rouge !"  
-3. **blu//cobalto** – *rire*, "à ne regarder trop loin.. regarder trop loin, à ne regarder trop loin de l'horizon"  
-4. **verde//petrolio** – *foule*  
-
-## **TRACKLIST**  
-1. **giallo//ocra** – sorcières au printemps  
-2. **giallo//ambra** – désert ou dessin de safran  
-3. **rosso//cremisi** – maquette de jeu  
-4. **azzurro//luna** – la clé d'un diamant opaque  
-5. **azzurro//polvere** – rayons de soleil  
-6. **blu//elettrico** – mécanique  
-7. **blu//cobalto** – gant-interlude  
-8. **verde//petrolio** – l'impression des matières  
-9. **verde//smeraldo** – la forêt morte d'adieu  
+## **PAROLEs**  
+1. **giallo//ambra**    –   "jaune"
+2. **rosso//cremisi**   –   *rire*, "regard le rouge !"  
+3. **blu//cobalto**     –   *rire*, "à ne regarder trop loin.. regarder trop loin, à ne regarder trop loin de l'horizon"  
+4. **verde//petrolio**  –   *foule*  
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1975776088&color=%23b522db&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-[Tsuku Boshi](https://tsukuboshi.wordpress.com)  
