@@ -1,78 +1,111 @@
+# Site settings
+title: Jacopo Greco d'Alceo
 author: Jacopo Greco d'Alceo
-email: jacopo.grecodalceo [at] gmail.com
-description: Jacopo Greco d'Alceo's website
+email: jacopo.grecodalceo@gmail.com
+description: >-
+   Jacopo Greco d'Alceo's website - composer, artist, and creative work
 
+# Deployment
 url: https://jacopogrecodalceo.github.io
+baseurl: "" # Leave empty for user/org pages
 
+# Social media
 github_username: jacopogrecodalceo
 facebook_username: jacopogrecodalceo
 instagram_username: jacopo_grecodalceo
 vimeo_username: jacopogrecodalceo
 soundcloud_username: jacopogrecodalceo
-bandcamp_username: jacopogrecodalceo
 
+# Localization
 language_default: fr
+languages: [en, fr]
 
+# Collections
 collections_dir: content
 
 collections:
-  en:
-    output: true
-    permalink: /:collection/:path
-  fr:
-    output: true
-    permalink: /:collection/:slug
+   en:
+      output: true
+      permalink: /:collection/:path
+   fr:
+      output: true
+      permalink: /:collection/:path
 
+# Default settings
 defaults:
+   # Global defaults
+   - scope:
+        path: ""
+     values:
+        layout: default
 
-  - scope:
-      path: ""
-    values:
-      layout: default
+   # English projects
+   - scope:
+        path: "_en/projects"
+        type: en
+     values:
+        layout: projects
+        permalink: /:collection/projects/:slug
 
-  - scope:
-      path: "_en/projects"
-      type: en
-    values:
-      layout: projects
-      permalink: /:collection/projects/:slug
+   # French projects
+   - scope:
+        path: "_fr/projects"
+        type: fr
+     values:
+        layout: projects
+        permalink: /:collection/projects/:slug
 
-  - scope:
-      path: "_fr/projects"
-      type: fr
-    values:
-      layout: projects
-      permalink: /:collection/projects/:slug
+   # English pieces
+   - scope:
+        path: "_en/pieces"
+        type: en
+     values:
+        layout: pieces
+        permalink: /:collection/pieces/:slug
 
-  - scope:
-      path: "_en/pieces"
-      type: en
-    values:
-      layout: pieces
-      permalink: /:collection/pieces/:slug
+   # French pieces
+   - scope:
+        path: "_fr/pieces"
+        type: fr
+     values:
+        layout: pieces
+        permalink: /:collection/pieces/:slug
 
-  - scope:
-      path: "_fr/pieces"
-      type: fr
-    values:
-      layout: pieces
-      permalink: /:collection/pieces/:slug
+   # English albums
+   - scope:
+        path: "_en/album"
+        type: en
+     values:
+        layout: album
+        permalink: /:collection/album/:slug
 
-  - scope:
-      path: "_en/album"
-      type: en
-    values:
-      layout: pieces
-      permalink: /:collection/album/:slug
+   # French albums
+   - scope:
+        path: "_fr/album"
+        type: fr
+     values:
+        layout: album
+        permalink: /:collection/album/:slug
 
-  - scope:
-      path: "_fr/album"
-      type: fr
-    values:
-      layout: pieces
-      permalink: /:collection/album/:slug
-
+# Plugins
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+   - jekyll-sitemap
+   - jekyll-seo-tag
+   - jekyll-feed
 
+# Build settings
+markdown: kramdown
+kramdown:
+   input: GFM
+   syntax_highlighter: rouge
+
+# Exclude from processing
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+   - README.md
