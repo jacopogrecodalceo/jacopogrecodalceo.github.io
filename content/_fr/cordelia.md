@@ -2,6 +2,8 @@
 title: Cordelia
 ---
 
+Bibliography: [7th International Csound Conference](https://www.mdw.ac.at/icsc2024/img/ICSC2024_Book_of_Abstracts_web.pdf)
+
 **Introduction**
 
 Throughout my studies as a composer, I have become increasingly engaged with the relationship between electroacoustic composition and dance, particularly with choreography as a form of composition. This focus led me to explore alternative approaches for generating and structuring electroacoustic sound. Live coding attracted my interest. Because of its flexibility, responsiveness, and capacity for real-time transformation, it allows to fill the gap between composition and performance. Yet I found existing live coding languages insufficient for the artistic precision I sought. This dissatisfaction prompted me to develop my own environment, which rapidly became both personally resonant and artistically effective. *Cordelia* now functions as an instrument and an environment for composing, organising, and listening to sound as an active, continuous process.

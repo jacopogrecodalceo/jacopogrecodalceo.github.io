@@ -1,6 +1,9 @@
 ---
 title: Cordelia
+
 ---
+
+Bibliography: [7th International Csound Conference](https://www.mdw.ac.at/icsc2024/img/ICSC2024_Book_of_Abstracts_web.pdf)
 
 **Introduction**
 
