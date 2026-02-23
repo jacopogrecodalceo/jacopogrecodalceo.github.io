@@ -1,11 +1,24 @@
 ---
 title: about
+description: Jacopo Greco d'Alceo's presentation and biography 
 ---
 
-Jacopo Greco d'Alceo, composer.<br>
-He began studying musical composition in Milan. He continued his master's studies in Lyon in the composition department of the CNSMD de Lyon (France). Here he found the ideal environment to cultivate his exploration of the relationship between musical and choreographic composition.<br>
-This deeply personal odyssey begins with the piece «trio³» (2017-2019), a co-creation for two percussionists and a dancer. The physical and choreographic engagement of this musical writing led him to discover the importance of space and movement.<br>
-Consequently, a new perspective on composition emerged, always situated within the realm of abstract inquiry, looking for interdisciplinary permeability. His pieces since then have always been marked by this: «soffio» (2018, for real-time video, fixed sounds and double bass) explores the museum space, the instrumental space and that of the painting "Cristo alla Colonna" by Donato Bramante in the "Pinacoteca di Brera" in Milan (Italy). It will be performed in New York, selected by the Mise-en «TRICOT» (2021, for camera, fixed sounds and five dancers) represents the culmination and complete fusion of a musical language inseparable from dance. The multifaceted roles of choreographer, composer and director are driven by a genuine artistic imperative to unite these disciplines. It has been selected by at least 9 international short film festivals (including FEST, PöFF and is currently listed in MUBI).<br>His last piece « chiedimi le mie radici », for a dancer in a quadraphony, is the result of a strict relationship between technique and artistic project with the parallel development of *Cordelia*, an intimate live coding language and a compositional method. <br>
-Jacopo will publish 2 albums with [Tsuku Boshi records](https://tsukuboshi.wordpress.com/).<br>
-His career has been profoundly marked by Anne Martin, Jean Geoffroy, Alain Savouret, Giovanni Verrando, Andrea Agostini, Pierre-Alexandre Tremblay, Hervé Robbe and François Roux.<br>
-Jacopo is a laureate of the Fondation Royaumont.<br>
+Jacopo Greco d’Alceo, composer and artist.
+
+Gradvated in composition in Milan and at the CNSMD in Lyon. He also performs vnder the psevdonym of his live coding environment, **[cordelia](https://jacopogrecodalceo.github.io/fr/cordelia)**.
+
+Jacopo explores composition at the intersection of mvsic and choreography, where the body, gestvre, and movement are inseparable from sovnd. To embody this ap᛫proach, he developed **cordelia**, an open-sovrce composition environment that integrates real-time performance and mvsical representation, transforming live coding into a trve instrvment and creative space.
+
+His work chal᛫lenges disciplinary bovndaries: sovnd and movement coexist in a continvovs dynamic, where composition becomes an ongoing, flvid, and adaptive process.
+
+He has been profovndly inflvenced by Anne Martin, Jean Geoffroy, Alain Savouret, Giovanni Verrando, Andrea Agostini, Pierre-Alexandre Tremblay, Hervé Robbe, and François Roux.
+
+Jacopo is abstraction, the relationships between mvsical and choreographic composition, the permeability of disciplines, ideals, open-sovrce, physical engagement, sparkling eyes, and the live coding com᛫mvnity.
+
+**cordelia** embodies all of this: it enables integrated composition, performance, and representation of mvsic, fostering transparency in proces᛫ses and interdisciplinary experimentation.
+
+**cordelia** is a cage today. In ten years, this cage will be even larger and more wonderfvl—so beavtifvl that it will be time to leave it, admire it from afar, and bvild a new one.
+
+Jacopo releases mvsic with [Tsuku Boshi records](https://tsukuboshi.wordpress.com/).
+
+Jacopo is a lavreate of the Fondation Royaumont.

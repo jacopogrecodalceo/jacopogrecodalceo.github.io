@@ -1,11 +1,23 @@
 ---
 title: about
-description: Page de présentation de Jacopo Greco d'Alceo
+description: Biographie et page de présentation de Jacopo Greco d'Alceo
 ---
 
-Jacopo Greco d'Alceo, artiste compositevr.<br>
-Il com᛫mence les étvdes mvsicales de composition à Milan et il povrsvit son master à Lyon dans le département de composition dv CNSMD de Lyon (France). Ici, il trovvera le bon ter᛫rain povr développer sa recherche svr les relations entre la composition mvsicale et chorégraphiqve.<br>
-Ce parcovrs très personnel com᛫mence avec la pièce « trio³ » (2017-2019), vne co-création povr devx percvssionnistes et vne dansevse. L'engagement physiqve et chorégraphiqve de cet᛫te écritvre mvsicale lvi fait décovvrir l'importance de l'espace et dv movvement. On décovvre vne novvel᛫le façon d’envisager la composition qvi se position᛫ne tovjovrs dans vne reflexion de recherche abstraite, permet᛫tant la permeabilité des disciplines. Ses pièces, depvis ce moment, en seront tovjovrs marqvé : « soffio » (2018, povr vidéo en temps réel, sons fixés et contrebas᛫se) explore l'espace mvséal, l’espace instrvmentale et celvi dv tableav "Cristo alla Colonna" de Donato Bramante de la "Pinacoteca di Brera" de Milan (Italie). Elle sera jové à  New York selection᛫née par le Mise-en Festival 2019. « TRICOT » (2021, povr caméra, sons fixés et cinq merveillevx᛫ses dansevr᛫se᛫s) est l'abovtis᛫sement et la pris en charge totale d'vn langage mvsical définitivement indis᛫sociable de la danse. Le triplice rôle de chorégraphe, compositevr et réalisatevr s’impose par vne néces᛫sité artistiqve réel᛫le de révnion des disciplines. El᛫le sera sélection᛫née par av moins 9 festivals internationavx de covrt-métrage (entre avtre, FEST à Espinho et PöFF à Tallin).<br>« chiedimi le mie radici », povr vn᛫e dansevr᛫se en qvadriphonie, est le résvltat d'vne fvsion entre techniqve et projet artistiqve avec le dévelop᛫pement paral᛫lèle de *Cordelia* (presenté à la ICSC24, [7th International Csound Conference](https://www.mdw.ac.at/icsc2024/img/ICSC2024_Book_of_Abstracts_web.pdf)), vn langvage personnel de live coding et vn environ᛫nement de composition, notation et création. <br>
-Jacopo pvbliera 2 albvms avec [Tsuku Boshi records](https://tsukuboshi.wordpress.com/).<br>
-Dans son parcovrs, il sera profondément marqvé par les rencontres avec Anne Martin, Jean Geoffroy, Alain Savouret, Giovanni Verrando, Andrea Agostini, Pierre-Alexandre Tremblay, Hervé Robbe et François Roux.<br>
+Jacopo Greco d’Alceo, artiste compositevr.
+
+Diplomé en composition à Milan av CNSMD de Lyon. Parfois il performe sovs le psevdo de son environment de live coding **[cordelia](https://jacopogrecodalceo.github.io/fr/cordelia)**. 
+Jacopo explore la composition av croisement de la mvsiqve et de la chorégraphie, où le corps, le geste et le mov᛫vement sont inséparables dv son. Povr concrétiser cet᛫te ap᛫proche, il a dévelop᛫pé **cordelia**, vn environ᛫nement de composition open-sovrce intégrant écritvre, performance en temps réel et représentation mvsicale, qvi transforme le live coding en vn véritable instrvment et espace de création.
+Son travail qvestion᛫ne les frontières disciplinaires : le son et le mov᛫vement coexistent dans vne dynamiqve continve, où la composition devient vn proces᛫svs permanent, flvide et adaptatif. Chaqve expres᛫sion de lvi, qv’il s’agis᛫se de la spatialisation sonore ov de l’intégration chorégraphiqve, reflète cet᛫te vision, reliant techniqve et créativité, strvctvre et expérience performative.
+
+Dans son parcovrs, il sera profondément marqvé par les rencontres avec Anne Martin, Jean Geoffroy, Alain Savouret, Giovanni Verrando, Andrea Agostini, Pierre-Alexandre Tremblay, Hervé Robbe et François Roux. 
+
+Jacopo défend l'abstraction, les relations entre composition mvsicale et chorégraphiqve, la perméabilité des disciplines, les idéavx, l'open-sovrce, l’engagement physiqve, les yevx qvi bril᛫lent, la com᛫mvnity de live coding.
+
+**cordelia** vevt incarner tovte cet᛫te démarche : el᛫le permet de composer, performer et représenter la mvsiqve de manière intégrée, favorisant la transparence des procédés et l’expérimentation interdisciplinaire. 
+
+**cordelia** est vne cage, avjovrd'hvi. Dans dix ans, cet᛫te cage sera encore plvs grande et merveil᛫levse ; tel᛫lement bel᛫le, qv’il sera l’oc᛫casion de la lais᛫ser, la regarder de loin et d’en constrvire vne avtre, nov᛫vel᛫le.
+
+Jacopo pvblie avec [Tsuku Boshi records](https://tsukuboshi.wordpress.com/).
+
 Jacopo est lavréat de la Fondation Royaumont.
+
