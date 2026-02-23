@@ -3,7 +3,12 @@ title: Cordelia
 
 ---
 
-Bibliography: [7th International Csound Conference](https://www.mdw.ac.at/icsc2024/img/ICSC2024_Book_of_Abstracts_web.pdf)
+links:
+[github](https://github.com/jacopogrecodalceo/CORDELIA)
+[7th International Csound Conference](https://www.mdw.ac.at/icsc2024/img/ICSC2024_Book_of_Abstracts_web.pdf)
+[Compassion through algorithms volume III](https://algorave.bandcamp.com/track/not-what-we-ought-to-say)
+[Solstice Stream December 2023](https://youtu.be/QJQd7yuO58k?si=3fl-UIDvgpb0tdrM)
+[The Womb Concert Series | OSCO, Hannover](https://youtu.be/zdYVUG-V67o?si=thq-qfEY-r8ncWrd)
 
 **Introduction**
 
