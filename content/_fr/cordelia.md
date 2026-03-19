@@ -6,8 +6,12 @@ links:<br>
 [github](https://github.com/jacopogrecodalceo/CORDELIA)<br>
 [7th International Csound Conference](https://www.mdw.ac.at/icsc2024/img/ICSC2024_Book_of_Abstracts_web.pdf)<br>
 [Compassion through algorithms volume III](https://algorave.bandcamp.com/track/not-what-we-ought-to-say)<br>
+[TOPLAP Stream for Palestine November 2025](https://archive.org/details/toplap-palestine-nov2025-jacopo-greco-d-alceo)<br>
+[Bordescape Improvisation | Final Concert](https://youtu.be/En3q84WpjhI?si=WIEJTw6GTjyhAuWl&t=2994)<br>
+[Hybrid Live Coding Interfaces: Boundless Thinking](https://www.youtube.com/live/QIxhGh35Bbc?t=1639s)<br>
 [Solstice Stream December 2023](https://youtu.be/QJQd7yuO58k?si=3fl-UIDvgpb0tdrM)<br>
 [The Womb Concert Series | OSCO, Hannover](https://youtu.be/zdYVUG-V67o?si=thq-qfEY-r8ncWrd)<br>
+
 
 **Introduction**
 
